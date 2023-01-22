@@ -39,7 +39,7 @@ exports[`renders correctly NoEmission 1`] = `
           }
         }
       >
-        Thanks for joining our fight against climate change!
+        Thanks for joining our fight against shitcoins!
       </Text.Primary>
       <Text.Primary
         style={
@@ -49,7 +49,7 @@ exports[`renders correctly NoEmission 1`] = `
           }
         }
       >
-        To start tracking your CO2 emissions, tap the button below
+        To start tracking your crypto investments, tap the button below
       </Text.Primary>
       <Button.Primary
         fullWidth={true}
@@ -60,7 +60,7 @@ exports[`renders correctly NoEmission 1`] = `
             "marginVertical": 20,
           }
         }
-        text="Add my first emission"
+        text="Add my first investment"
       />
     </View>
   </View>
