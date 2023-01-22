@@ -20,7 +20,7 @@ exports[`TextButton renders correctly with camera icon 1`] = `
     }
   >
     <Ionicons
-      color="#3957D0"
+      color="#e20074"
       name="camera"
       size={20}
     />
@@ -51,7 +51,7 @@ exports[`TextButton renders correctly with camera icon 1`] = `
     }
   >
     <Ionicons
-      color="#4BB377"
+      color="#e20074"
       name="create"
       size={20}
     />
@@ -79,7 +79,7 @@ exports[`TextButton renders correctly with repeat icon 1`] = `
     }
   >
     <Ionicons
-      color="#3957D0"
+      color="#e20074"
       name="repeat"
       size={20}
     />
@@ -110,7 +110,7 @@ exports[`TextButton renders correctly with repeat icon 1`] = `
     }
   >
     <Ionicons
-      color="#4BB377"
+      color="#e20074"
       name="create"
       size={20}
     />

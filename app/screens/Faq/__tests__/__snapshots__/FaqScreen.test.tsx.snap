@@ -60,7 +60,7 @@ exports[`FaqScreen renders correctly 1`] = `
             size={22}
             style={
               Object {
-                "color": "#3957D0",
+                "color": "#e20074",
               }
             }
           />
@@ -118,7 +118,7 @@ exports[`FaqScreen renders correctly 1`] = `
             size={22}
             style={
               Object {
-                "color": "#3957D0",
+                "color": "#e20074",
               }
             }
           />
@@ -176,7 +176,7 @@ exports[`FaqScreen renders correctly 1`] = `
             size={22}
             style={
               Object {
-                "color": "#3957D0",
+                "color": "#e20074",
               }
             }
           />
@@ -234,7 +234,7 @@ exports[`FaqScreen renders correctly 1`] = `
             size={22}
             style={
               Object {
-                "color": "#3957D0",
+                "color": "#e20074",
               }
             }
           />
@@ -292,7 +292,7 @@ exports[`FaqScreen renders correctly 1`] = `
             size={22}
             style={
               Object {
-                "color": "#3957D0",
+                "color": "#e20074",
               }
             }
           />

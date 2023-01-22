@@ -43,8 +43,8 @@ exports[`InfoModalScreen renders correctly 1`] = `
                 "paddingVertical": 4,
               },
               Object {
-                "backgroundColor": "#DCF0E5",
-                "borderColor": "#4BB377",
+                "backgroundColor": "#e2007430",
+                "borderColor": "#e20074",
               },
               undefined,
             ]

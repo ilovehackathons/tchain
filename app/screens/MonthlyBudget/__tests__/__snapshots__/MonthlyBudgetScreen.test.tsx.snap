@@ -33,7 +33,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
         inverted={false}
         maximumTrackTintColor="#CED4DA"
         maximumValue={1000}
-        minimumTrackTintColor="#4BB377"
+        minimumTrackTintColor="#e20074"
         minimumValue={10}
         onChange={null}
         onRNCSliderAccessibilityAction={null}
@@ -55,7 +55,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
         }
         tapToSeek={false}
         thumbImage={null}
-        thumbTintColor="#4BB377"
+        thumbTintColor="#e20074"
         value={0}
       />
       <Text.Primary
@@ -84,7 +84,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
           >
             Average monthly investments per capita in a sample of countries 
             <Ionicons
-              color="#3957D0"
+              color="#e20074"
               name="md-information-circle"
               onPress={[Function]}
               size={26}
@@ -194,7 +194,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
           >
             If you wish to hedge against inflation (keep the loss in your average wealth below 2 % yearly), set your monthly budget to at least 167 € fiat
             <Ionicons
-              color="#3957D0"
+              color="#e20074"
               name="md-information-circle"
               onPress={[Function]}
               size={26}

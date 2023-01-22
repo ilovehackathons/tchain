@@ -50,7 +50,7 @@ exports[`renders correctly H1 green 1`] = `
       },
       undefined,
       Object {
-        "color": "#4BB377",
+        "color": "#e20074",
       },
     ]
   }
@@ -109,7 +109,7 @@ exports[`renders correctly H2 blue50 1`] = `
       },
       undefined,
       Object {
-        "color": "#3957D0",
+        "color": "#e20074",
       },
     ]
   }
@@ -172,7 +172,7 @@ exports[`renders correctly H2 green 1`] = `
       },
       undefined,
       Object {
-        "color": "#4BB377",
+        "color": "#e20074",
       },
     ]
   }
@@ -273,7 +273,7 @@ exports[`renders correctly H3 green 1`] = `
       },
       undefined,
       Object {
-        "color": "#4BB377",
+        "color": "#e20074",
       },
     ]
   }
@@ -311,7 +311,7 @@ exports[`renders correctly Link 1`] = `
     style={
       Array [
         Object {
-          "color": "#4BB377",
+          "color": "#e20074",
           "fontFamily": "Inter-Medium",
           "fontSize": 18,
           "textDecorationLine": "underline",
@@ -372,7 +372,7 @@ exports[`renders correctly Primary blue 1`] = `
       },
       undefined,
       Object {
-        "color": "#3957D0",
+        "color": "#e20074",
       },
     ]
   }
@@ -456,7 +456,7 @@ exports[`renders correctly Primary green 1`] = `
       },
       undefined,
       Object {
-        "color": "#4BB377",
+        "color": "#e20074",
       },
     ]
   }
@@ -620,7 +620,7 @@ exports[`renders correctly Secondary green 1`] = `
       },
       undefined,
       Object {
-        "color": "#4BB377",
+        "color": "#e20074",
       },
     ]
   }
@@ -826,7 +826,7 @@ exports[`renders correctly Tertiary green 1`] = `
       },
       undefined,
       Object {
-        "color": "#4BB377",
+        "color": "#e20074",
       },
     ]
   }

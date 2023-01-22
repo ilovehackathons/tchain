@@ -30,7 +30,7 @@ exports[`EmissionListItem renders correctly if mitigated 1`] = `
       <View
         style={
           Object {
-            "backgroundColor": "#DCF0E5",
+            "backgroundColor": "#e2007430",
             "borderRadius": 17,
             "height": 34,
             "position": "absolute",
@@ -39,7 +39,7 @@ exports[`EmissionListItem renders correctly if mitigated 1`] = `
         }
       />
       <Ionicons
-        color="#4BB377"
+        color="#e20074"
         name="md-nutrition"
         size={22}
         style={

@@ -7,7 +7,7 @@ exports[`renders correctly 1`] = `
   size={26}
   style={
     Object {
-      "color": "#3957D0",
+      "color": "#e20074",
       "marginRight": 16,
     }
   }

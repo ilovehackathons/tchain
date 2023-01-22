@@ -6,7 +6,7 @@ exports[`SectionHeader should render when date 1`] = `
   style={
     Object {
       "backgroundColor": "#FFFFFF",
-      "borderBottomColor": "#DCF0E5",
+      "borderBottomColor": "#e2007430",
       "borderBottomWidth": 2,
       "elevation": 0,
       "flexDirection": "row",
@@ -34,7 +34,7 @@ exports[`SectionHeader should render when date 1`] = `
     December 2020
   </Text.Primary>
   <Ionicons
-    color="#3957D0"
+    color="#e20074"
     name="ios-chevron-forward-outline"
     size={24}
     style={Object {}}
@@ -48,7 +48,7 @@ exports[`SectionHeader should render when title 1`] = `
   style={
     Object {
       "backgroundColor": "#FFFFFF",
-      "borderBottomColor": "#DCF0E5",
+      "borderBottomColor": "#e2007430",
       "borderBottomWidth": 2,
       "elevation": 0,
       "flexDirection": "row",
@@ -76,7 +76,7 @@ exports[`SectionHeader should render when title 1`] = `
     some title
   </Text.Primary>
   <Ionicons
-    color="#3957D0"
+    color="#e20074"
     name="ios-chevron-forward-outline"
     size={24}
     style={Object {}}

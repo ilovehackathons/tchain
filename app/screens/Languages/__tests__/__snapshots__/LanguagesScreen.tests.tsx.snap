@@ -34,7 +34,7 @@ exports[`LanguageScreen renders correctly 1`] = `
           English
         </Text.Primary>
         <Ionicons
-          color="#4BB377"
+          color="#e20074"
           name="md-checkmark"
           size={26}
           style={
