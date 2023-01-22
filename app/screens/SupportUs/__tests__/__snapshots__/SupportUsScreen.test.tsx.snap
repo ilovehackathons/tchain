@@ -57,7 +57,7 @@ exports[`SupportUsScreen renders correctly 1`] = `
           "paddingVertical": 10,
         }
       }
-      url="https://ko-fi.com/pierrebresson"
+      url="https://ko-fi.com/ilovehackathons"
     >
       Pierre Bresson - Ko-fi
     </Text.Link>

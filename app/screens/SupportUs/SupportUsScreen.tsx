@@ -19,7 +19,7 @@ const SupportUsScreen: NavStatelessComponent = () => (
       {t("SUPPORT_US_SCREEN_TITLE_CONSIDER_DONATE")}
     </Text.Primary>
     <Text.Primary style={styles.paragraph}>{t("SUPPORT_US_SCREEN_PLATFORM")}</Text.Primary>
-    <Text.Link url="https://ko-fi.com/pierrebresson" style={styles.paragraph}>
+    <Text.Link url="https://ko-fi.com/ilovehackathons" style={styles.paragraph}>
       Pierre Bresson - Ko-fi
     </Text.Link>
     <View style={styles.separator} />
