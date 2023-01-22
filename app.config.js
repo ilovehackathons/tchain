@@ -13,7 +13,7 @@ module.exports = () => {
     version: "0.9.2",
     orientation: "portrait",
     splash: {
-      image: "./assets/images/splash.png",
+      image: "./assets/images/splashtc.png",
       resizeMode: "contain",
       backgroundColor: "#ffffff",
     },

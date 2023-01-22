@@ -16,7 +16,7 @@ exports[`Legend renders correctly 1`] = `
   />
   <LegendItem
     amount={300}
-    name="Meal"
+    name="Coins"
     totalAmount={1000}
   />
   <LegendItem
