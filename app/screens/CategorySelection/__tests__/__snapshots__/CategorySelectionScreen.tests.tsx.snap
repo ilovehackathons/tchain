@@ -22,44 +22,44 @@ exports[`CategorySelectionScreen renders correctly 1`] = `
       Select a category
     </Text.H2>
     <Tag
-      icon="md-restaurant"
+      icon="md-stats-chart-outline"
       onPress={[Function]}
-      text="Meal"
+      text="Coin"
     />
     <Tag
-      icon="md-airplane"
+      icon="md-trending-up-outline"
       onPress={[Function]}
-      text="Transport"
+      text="Fungible token"
     />
     <Tag
-      icon="barcode-sharp"
+      icon="md-barcode-sharp"
       onPress={[Function]}
-      text="Scan product"
+      text="Mine collectible"
     />
     <Tag
-      icon="md-play-circle"
+      icon="md-shapes-outline"
       onPress={[Function]}
-      text="Streaming"
+      text="Non-fungible token"
     />
     <Tag
-      icon="md-card"
+      icon="md-rocket-outline"
       onPress={[Function]}
-      text="Purchase"
+      text="Solo stake"
     />
     <Tag
-      icon="md-shirt"
+      icon="md-receipt-outline"
       onPress={[Function]}
-      text="Fashion"
+      text="Staking pool"
     />
     <Tag
-      icon="md-nutrition"
+      icon="md-people-outline"
       onPress={[Function]}
-      text="Food"
+      text="Mining rig"
     />
     <Tag
       icon="md-flash"
       onPress={[Function]}
-      text="Electricity"
+      text="Mining pool"
     />
     <Tag
       icon="md-build"
