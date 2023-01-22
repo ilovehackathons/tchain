@@ -13,10 +13,10 @@ interface Props {
 
 const PeriodBudget: React.FC<Props> = ({ periodEmissionsBudget = 0, period = "" }) => {
   let budget = periodEmissionsBudget.toString();
-  let units = " kg";
+  let units = " €";
   if (periodEmissionsBudget > 999) {
     budget = (periodEmissionsBudget / 1000).toFixed(2);
-    units = " ton(s)";
+    units = " k€";
   }
 
   return (

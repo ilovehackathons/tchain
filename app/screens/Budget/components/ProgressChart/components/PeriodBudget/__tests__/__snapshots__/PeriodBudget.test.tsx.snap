@@ -21,7 +21,7 @@ exports[`PeriodBudget renders correctly 1`] = `
       center={true}
       lightGray={true}
     >
-      760 kg
+      760 €
     </Text.Secondary>
   </Text.Secondary>
 </View>
@@ -48,7 +48,7 @@ exports[`PeriodBudget renders correctly if tons 1`] = `
       center={true}
       lightGray={true}
     >
-      760 kg
+      760 €
     </Text.Secondary>
   </Text.Secondary>
 </View>

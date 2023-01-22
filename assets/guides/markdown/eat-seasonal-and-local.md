@@ -1,5 +1,5 @@
 ---
-title: Eating seasonal and local
+title: Investing in tokens
 category: home
 ---
 

@@ -17,13 +17,13 @@ const LegendItem: React.FC<Props> = ({ name = "", amount = 0, totalAmount = 0 })
   }
 
   let showPercentage = true;
-  let unitAmount = " kg - ";
+  let unitAmount = " € - ";
 
   const percentage = Math.round((amount / totalAmount) * 100);
 
   if (totalAmount == amount || !percentage) {
     showPercentage = false;
-    unitAmount = " kg";
+    unitAmount = " €";
   }
 
   return (

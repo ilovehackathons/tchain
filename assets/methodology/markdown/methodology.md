@@ -6,7 +6,7 @@ However, what is important is the order of magnitude in order to compare and red
 
 ## Transport
 
-Very simple, knowing the amount of kilometres you have travelled, you simply multiply it by the coefficient of your vehicle. For example, fossil fuelled cars coefficient is 257 gCO2/eq per km which means that you emit around 2,6 kg of CO2 every 10 kilometres.
+Very simple, knowing the amount of kilometres you have travelled, you simply multiply it by the coefficient of your vehicle. For example, fossil fuelled cars coefficient is 257 gCO2/eq per km which means that you emit around 2,6 € of CO2 every 10 kilometres.
 
 ### For planes
 

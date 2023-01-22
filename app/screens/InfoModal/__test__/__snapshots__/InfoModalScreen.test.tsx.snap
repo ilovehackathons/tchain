@@ -24,7 +24,7 @@ exports[`InfoModalScreen renders correctly 1`] = `
 <p>It's important to say that there is no perfect calculation method because there are too many parameters to take into account, such as the weather which can drastically influence plane fuel consumption and some parameters that we can't predict, like the lifespan of a car for example.</p>
 <p>However, what is important is the order of magnitude in order to compare and reduce our carbon footprint. Alls coefficients used are from <a href=\\"https://static.ducky.eco/calculator_documentation.pdf\\">Ducky</a> and <a href=\\"https://www.bilans-ges.ademe.fr/\\">Ademe</a>.</p>
 <h2>Transport</h2>
-<p>Very simple, knowing the amount of kilometres you have travelled, you simply multiply it by the coefficient of your vehicle. For example, fossil fuelled cars coefficient is 257 gCO2/eq per km which means that you emit around 2,6 kg of CO2 every 10 kilometres.</p>
+<p>Very simple, knowing the amount of kilometres you have travelled, you simply multiply it by the coefficient of your vehicle. For example, fossil fuelled cars coefficient is 257 gCO2/eq per km which means that you emit around 2,6 € of CO2 every 10 kilometres.</p>
 <h3>For planes</h3>
 <p>Knowing the length of the flight allow us to know what kind of flight you had: small, medium or long haul. Knowing the average speed on these flights we deduct the distance and therefore the emission by multiplying by the corresponding coefficient.</p>
 <h2>Food</h2>

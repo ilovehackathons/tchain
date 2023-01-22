@@ -61,7 +61,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
       <Text.Primary
         lightGray={true}
       >
-        NaN kg CO2eq
+        NaN € fiat
       </Text.Primary>
       <View
         style={
@@ -82,7 +82,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
           <Text.Primary
             bold={true}
           >
-            Average monthly emissions per capita in a sample of countries 
+            Average monthly investments per capita in a sample of countries 
             <Ionicons
               color="#3957D0"
               name="md-information-circle"
@@ -99,7 +99,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
             }
           }
         >
-          Luxembourg : 3.5 tons
+          Luxembourg : 3.5 k€
         </Text.Secondary>
         <Text.Secondary
           center={true}
@@ -109,7 +109,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
             }
           }
         >
-          United States : 1.5 tons
+          United States : 1.5 k€
         </Text.Secondary>
         <Text.Secondary
           center={true}
@@ -119,7 +119,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
             }
           }
         >
-          Japan : 900 kg
+          Japan : 900 €
         </Text.Secondary>
         <Text.Secondary
           center={true}
@@ -129,7 +129,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
             }
           }
         >
-          Sweden : 595 kg
+          Sweden : 595 €
         </Text.Secondary>
         <Text.Secondary
           center={true}
@@ -139,7 +139,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
             }
           }
         >
-          France : 575 kg
+          France : 575 €
         </Text.Secondary>
         <Text.Secondary
           center={true}
@@ -149,7 +149,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
             }
           }
         >
-          China : 522 kg
+          China : 522 €
         </Text.Secondary>
         <Text.Secondary
           center={true}
@@ -159,7 +159,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
             }
           }
         >
-          Brazil : 208 kg
+          Brazil : 208 €
         </Text.Secondary>
         <Text.Secondary
           center={true}
@@ -169,7 +169,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
             }
           }
         >
-          India : 139 kg
+          India : 139 €
         </Text.Secondary>
         <Text.Secondary
           center={true}
@@ -179,7 +179,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
             }
           }
         >
-          Ethiopia : 8.3 kg
+          Ethiopia : 8.3 €
         </Text.Secondary>
         <View
           style={
@@ -192,7 +192,7 @@ exports[`MonthlyBudgetScreen renders correctly 1`] = `
           <Text.Secondary
             center={true}
           >
-            If you wish to respect the Paris agreement (to keep the rise in global average temperature below 2 degrees), set your monthly budget at 167 kgCO2eq
+            If you wish to hedge against inflation (keep the loss in your average wealth below 2 % yearly), set your monthly budget to at least 167 € fiat
             <Ionicons
               color="#3957D0"
               name="md-information-circle"

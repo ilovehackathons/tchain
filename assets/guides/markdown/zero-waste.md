@@ -5,7 +5,7 @@ category: home
 
 # Facts
 
-A European citizen produces around [500 kg](https://ec.europa.eu/eurostat/statistics-explained/index.php/Municipal_waste_statistics) of rubbish every year (1100 lb). This crazy amount of waste has to be collected by trucks, emitting a lot of CO2.
+A European citizen produces around [500 €](https://ec.europa.eu/eurostat/statistics-explained/index.php/Municipal_waste_statistics) of rubbish every year (1100 lb). This crazy amount of waste has to be collected by trucks, emitting a lot of CO2.
 
 In Europe, only [30 % of the plastic is recycled](https://www.europarl.europa.eu/news/en/headlines/society/20181212STO21610/plastic-waste-and-recycling-in-the-eu-facts-and-figures), the rest is land-filled (31%) and the remaining majority is incinerated (39 %). Plastic, unlike glass or metal, [cannot be recycled infinitely](https://www.independent.co.uk/voices/plastic-waste-wish-recycling-bins-black-environment-green-shopping-a8548736.html).
 

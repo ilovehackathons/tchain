@@ -14,7 +14,7 @@ exports[`NumberOfDaysVegetarian renders correctly 1`] = `
   <Text.H3
     center={true}
   >
-    Seems like you haven't eaten any meat nor fish since using the app, good job! 🍾
+    Seems like you haven't invested in any shitcoins since using the app, good job! 🍾
   </Text.H3>
 </View>
 `;

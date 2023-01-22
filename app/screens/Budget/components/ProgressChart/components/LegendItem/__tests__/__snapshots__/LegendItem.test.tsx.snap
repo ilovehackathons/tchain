@@ -16,7 +16,7 @@ exports[`LegendItem renders correctly 1`] = `
   <Text.Secondary
     lightGray={true}
   >
-    60 kg - 
+    60 € - 
   </Text.Secondary>
   <Text.Secondary
     lightGray={true}
@@ -42,7 +42,7 @@ exports[`LegendItem should not render % if percentage is 0 1`] = `
   <Text.Secondary
     lightGray={true}
   >
-    0.01 kg
+    0.01 €
   </Text.Secondary>
 </View>
 `;

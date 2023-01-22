@@ -38,11 +38,9 @@ const CountryExample = (translation, index) => (
 );
 
 const onPressInfoWorldEmission = () =>
-  WebBrowser.openBrowserAsync(
-    "https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita"
-  );
+  WebBrowser.openBrowserAsync("https://en.wikipedia.org/wiki/Ethereum");
 const onPressInfoParisAgreement = () =>
-  WebBrowser.openBrowserAsync("https://en.wikipedia.org/wiki/Under2_Coalition");
+  WebBrowser.openBrowserAsync("https://en.wikipedia.org/wiki/Bitcoin");
 
 const MonthlyBudgetScreen: NavStatelessComponent = () => {
   const navigation = useNavigation();
@@ -73,7 +71,7 @@ const MonthlyBudgetScreen: NavStatelessComponent = () => {
           value={sliderValue}
           onSlidingComplete={setSliderValue}
         />
-        <Text.Primary lightGray>{Math.round(sliderValue) + " kg CO2eq"}</Text.Primary>
+        <Text.Primary lightGray>{Math.round(sliderValue) + " € fiat"}</Text.Primary>
         <View style={styles.worldBudgetContainer}>
           <View style={styles.worldExampleTitle}>
             <Text.Primary bold>
