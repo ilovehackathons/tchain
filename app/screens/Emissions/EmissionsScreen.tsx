@@ -26,6 +26,12 @@ const EmissionsScreen: React.FC<Props> = ({ emissions = [], recurringEmissions }
 
   const [ethPrice, setEthPrice] = useState("0");
   const [btcPrice, setBtcPrice] = useState("0");
+  const [solPrice, setSolPrice] = useState("0");
+  const [dotPrice, setDotPrice] = useState("0");
+  const [etcPrice, setEtcPrice] = useState("0");
+  const [bnbPrice, setBnbPrice] = useState("0");
+  const [galPrice, setGalPrice] = useState("0");
+  const [gmtPrice, setGmtPrice] = useState("0");
 
   useEffect(() => {
     async function fetchPrices() {
@@ -35,6 +41,30 @@ const EmissionsScreen: React.FC<Props> = ({ emissions = [], recurringEmissions }
       );
       setBtcPrice(
         (+(await (await fetch("https://api.binance.com/api/v3/avgPrice?symbol=BTCBUSD")).json())
+          .price).toFixed(2)
+      );
+      setSolPrice(
+        (+(await (await fetch("https://api.binance.com/api/v3/avgPrice?symbol=SOLBUSD")).json())
+          .price).toFixed(2)
+      );
+      setDotPrice(
+        (+(await (await fetch("https://api.binance.com/api/v3/avgPrice?symbol=DOTBUSD")).json())
+          .price).toFixed(2)
+      );
+      setEtcPrice(
+        (+(await (await fetch("https://api.binance.com/api/v3/avgPrice?symbol=ETCBUSD")).json())
+          .price).toFixed(2)
+      );
+      setBnbPrice(
+        (+(await (await fetch("https://api.binance.com/api/v3/avgPrice?symbol=BNBBUSD")).json())
+          .price).toFixed(2)
+      );
+      setGalPrice(
+        (+(await (await fetch("https://api.binance.com/api/v3/avgPrice?symbol=GALBUSD")).json())
+          .price).toFixed(2)
+      );
+      setGmtPrice(
+        (+(await (await fetch("https://api.binance.com/api/v3/avgPrice?symbol=GMTBUSD")).json())
           .price).toFixed(2)
       );
     }
@@ -65,8 +95,14 @@ const EmissionsScreen: React.FC<Props> = ({ emissions = [], recurringEmissions }
           />
         )}
       />
-      <Text>1 ETH = {ethPrice} $</Text>
-      <Text>1 BTC = {btcPrice} $</Text>
+      <Text>Ethereum: 1 ETH = {ethPrice} $</Text>
+      <Text>Bitcoin: 1 BTC = {btcPrice} $</Text>
+      <Text>Solana: 1 SOL = {solPrice} $</Text>
+      <Text>Polkadot: 1 DOT = {dotPrice} $</Text>
+      <Text>Ethereum Classic: 1 ETC = {etcPrice} $</Text>
+      <Text>BNB: 1 BNB = {bnbPrice} $</Text>
+      <Text>Galxe: 1 GAL = {galPrice} $</Text>
+      <Text>Green Metaverse Token: 1 GMT = {gmtPrice} $</Text>
     </>
   );
 };
