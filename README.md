@@ -43,7 +43,7 @@ Design can be found on [Figma](https://www.figma.com/community/file/967052407514
 
 ### 📊 Data source
 
-Coin data comes from [Coinbase](https://coinbase.com) while NFT data comes from [Open Sea](https://opensea.io/) api.
+Coin data comes from [Coinbase](https://coinbase.com) while NFT data comes from [OpenSea](https://opensea.io/) api.
 
 <br />
 
@@ -192,7 +192,7 @@ Have a look to [contributing.md](https://github.com/ilovehackathons/tchain/blob/
 
 ### 🏆 Backers
 
-A big thank you to [Christopher Gwilliams](https://github.com/encima) and to the Phelps family for their amazing contribution to the [Kickstarter](https://www.kickstarter.com/projects/pierrebresson/not-my-fault)!
+A big thank you to [hubraum](https://hubraum.com) for hosting the hackathon.
 
 <br />
 
