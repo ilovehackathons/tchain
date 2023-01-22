@@ -1,9 +1,9 @@
 ---
-title: Avoid streaming
-category: digital
+title: Mining on Ethereum Classic
+category: Degen
 ---
 
-# Avoid streaming when possible
+# Mining on Ethereum Classic when possible
 
 Streaming is nice, streaming is amazing, but have you ever thought about the consequences on the environment?
 

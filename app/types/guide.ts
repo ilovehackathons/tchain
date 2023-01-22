@@ -1,6 +1,6 @@
 export enum GuideCategory {
-  home = "home",
-  digital = "digital",
+  newbie = "newbie",
+  Degen = "Degen",
 }
 
 export interface Guide {

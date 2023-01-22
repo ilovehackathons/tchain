@@ -1,9 +1,9 @@
 ---
-title: Find replacement for internet giants
-category: digital
+title: Trading on centralized exchanges
+category: Degen
 ---
 
-# Find replacement for internet giants
+# Trading on centralized exchanges
 
 Google, Facebook, 🍏 and any other tech monsters are harvesting data about their users and that's a bad thing for you and the environment.
 

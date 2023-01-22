@@ -1,6 +1,6 @@
 ---
 title: Investing in tokens
-category: home
+category: newbie
 ---
 
 # Eating seasonal fruits and vegetables

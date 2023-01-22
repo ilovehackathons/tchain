@@ -2,31 +2,31 @@ import { EmissionType } from "interfaces";
 
 const categories = [
   {
-    icon: "md-restaurant",
+    icon: "md-stats-chart-outline",
     emissionType: EmissionType.meal,
   },
   {
-    icon: "md-airplane",
+    icon: "md-trending-up-outline",
     emissionType: EmissionType.transport,
   },
   {
-    icon: "barcode-sharp",
+    icon: "md-barcode-sharp",
     emissionType: EmissionType.productScanned,
   },
   {
-    icon: "md-play-circle",
+    icon: "md-shapes-outline",
     emissionType: EmissionType.streaming,
   },
   {
-    icon: "md-card",
+    icon: "md-rocket-outline",
     emissionType: EmissionType.purchase,
   },
   {
-    icon: "md-shirt",
+    icon: "md-receipt-outline",
     emissionType: EmissionType.fashion,
   },
   {
-    icon: "md-nutrition",
+    icon: "md-people-outline",
     emissionType: EmissionType.food,
   },
   {

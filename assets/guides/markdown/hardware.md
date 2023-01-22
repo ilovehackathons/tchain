@@ -1,6 +1,6 @@
 ---
-title: Buying & reusing hardware
-category: digital
+title: Trading on Uniswap
+category: Degen
 ---
 
 ### When necessary, buy a phone & computer you can upgrade and repair with a long lifespan

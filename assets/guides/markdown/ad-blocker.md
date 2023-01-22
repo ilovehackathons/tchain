@@ -1,9 +1,9 @@
 ---
-title: Install an ad blocker
-category: digital
+title: Mining on Bitcoin
+category: Degen
 ---
 
-# Install an ad blocker
+# Mining on Bitcoin
 
 All modern browser like Firefox, Safari, Chrome... let users the possibility to install add-ons, also name plugins or extensions.
 

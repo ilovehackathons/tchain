@@ -1,6 +1,6 @@
 ---
 title: Zero waste
-category: home
+category: newbie
 ---
 
 # Facts
