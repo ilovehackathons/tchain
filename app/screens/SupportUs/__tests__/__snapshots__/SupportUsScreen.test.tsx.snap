@@ -31,7 +31,7 @@ exports[`SupportUsScreen renders correctly 1`] = `
         }
       }
     >
-      NMF.earth is not for profit, we have only raised a small amount on Kickstarter and we keep working a lot on the project even if it's not financially sustainable. Besides that, we have many costs such as servers, domain name, softwares licences, apple developer account etc.
+     TChain is not for profit, we have only raised a small amount on Kickstarter and we keep working a lot on the project even if it's not financially sustainable. Besides that, we have many costs such as servers, domain name, softwares licences, apple developer account etc.
     </Text.Primary>
     <Text.Primary
       style={

@@ -33,7 +33,7 @@ exports[`renders correctly PermissionsRequest if camera 1`] = `
     <Text.Primary
       center={true}
     >
-      Please give NMF.earth app access to camera in your phone settings to use this feature.
+      Please giveTChain app access to camera in your phone settings to use this feature.
     </Text.Primary>
   </View>
   <Button.Secondary
@@ -83,7 +83,7 @@ exports[`renders correctly PermissionsRequest if notification 1`] = `
     <Text.Primary
       center={true}
     >
-      Please give NMF.earth app permission to send you notifications in your phone settings to use this feature.
+      Please giveTChain app permission to send you notifications in your phone settings to use this feature.
     </Text.Primary>
   </View>
   <Button.Secondary

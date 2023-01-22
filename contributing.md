@@ -30,7 +30,7 @@ NB : PR older than one month will be deleted.
 
 ### Contributions are under the GPL-3.0 License
 
-When you submit code changes, your submissions are understood to be under [GPL-3.0 License](https://github.com/NotMyFaultEarth/nmf-app/blob/main/LICENSE).
+When you submit code changes, your submissions are understood to be under [GPL-3.0 License](https://github.com/ilovehackathons/tchain/blob/main/LICENSE).
 
 ### Open source guide
 

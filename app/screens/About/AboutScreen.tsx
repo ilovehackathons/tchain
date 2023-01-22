@@ -22,7 +22,9 @@ const AboutScreen: NavStatelessComponent = () => (
     <Text.H2 style={styles.header}>{t("ABOUT_SCREEN_LIBRARIES_AND_CONTRIBUTORS")}</Text.H2>
     <View style={styles.githubView}>
       <Text.Primary>{t("ABOUT_SCREEN_CAN_BE_FOUND")}</Text.Primary>
-      <Text.Link url="https://github.com/NMF-earth/nmf-app">{t("ABOUT_SCREEN_GITHUB")}</Text.Link>
+      <Text.Link url="https://github.com/ilovehackathons/tchain">
+        {t("ABOUT_SCREEN_GITHUB")}
+      </Text.Link>
     </View>
     <View style={styles.separator} />
   </ScrollView>

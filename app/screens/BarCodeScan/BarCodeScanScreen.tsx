@@ -61,8 +61,7 @@ const BarCodeScanScreen = ({ language = "" }: LocalizationContextProps) => {
     const headers = new Headers({
       Accept: "application/json",
       "Content-Type": "application/json",
-      "User-Agent":
-        "NMF.earth - " + platformType + " - Version " + version + "-" + `${buildNumber}`,
+      "User-Agent": "TChain - " + platformType + " - Version " + version + "-" + `${buildNumber}`,
     });
 
     fetch(`https://world.openfoodfacts.org/api/v0/product/${data}`, {

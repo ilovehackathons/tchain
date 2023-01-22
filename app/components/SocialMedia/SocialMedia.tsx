@@ -10,15 +10,15 @@ import styles from "./SocialMedia.styles";
 const socialMedia = [
   {
     iconName: "github",
-    url: "https://github.com/NMF-earth",
+    url: "https://github.com/ilovehackathons",
   },
   {
     iconName: "mastodon",
-    url: "https://mastodon.social/@nmf_earth",
+    url: "https://mastodon.social/@ilovehackathons",
   },
   {
     iconName: "medium-m",
-    url: "https://medium.com/@nmf_earth",
+    url: "https://medium.com/@ilovehackathons",
   },
 ];
 

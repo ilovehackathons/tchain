@@ -93,7 +93,7 @@
   "EMISSION_ITEM_SCREEN_MITIGATED": "Compensation",
   "EMISSION_ITEM_SCREEN_IS_MITIGATED": "Cette émission a été compensée",
   "EMISSION_ITEM_SCREEN_IS_NOT_MITIGATED": "Cette émission n'a pas été compensée",
-  "INTRO_SCREEN_WELCOME": "Bienvenue sur NMF.earth 🌱",
+  "INTRO_SCREEN_WELCOME": "Bienvenue surTChain 🌱",
   "INTRO_SCREEN_CONTINUE_AND_ACCEPT_TERMS_OF_USE": "En continuant vous acceptez nos conditions d'utilisations.",
   "INTRO_SCREEN_TERMS_OF_USE": "Lire les conditions d'utilisations",
   "INTRO_SCREEN_I_AGREE": "J'accepte",
@@ -111,7 +111,7 @@
   "ABOUT_SCREEN_GITHUB": "Github",
   "SUPPORT_US_SCREEN_TITLE": "Nous soutenir !",
   "SUPPORT_US_SCREEN_WHY_DONATE_TITLE": "Pourquoi nous soutenir",
-  "SUPPORT_US_SCREEN_WHY_DONATE_CONTENT": "NMF.earth n'a pas vocation à engranger du profit, nous avons levé peu d'argent sur Kickstarter et nous travaillons d'arrache pied sur le project même si cela n'est pas financièrement profitable. En plus de cela, nous avons beaucoup de frais, que ce soit des frais de serveurs, nom de domaine, licences, compte développeur apple etc.",
+  "SUPPORT_US_SCREEN_WHY_DONATE_CONTENT": "TChain n'a pas vocation à engranger du profit, nous avons levé peu d'argent sur Kickstarter et nous travaillons d'arrache pied sur le project même si cela n'est pas financièrement profitable. En plus de cela, nous avons beaucoup de frais, que ce soit des frais de serveurs, nom de domaine, licences, compte développeur apple etc.",
   "SUPPORT_US_SCREEN_TITLE_CONSIDER_DONATE": "Si vous appréciez cette application, n'hésitez pas à nous donner quelques euros pour nous encourager à continuer ce projet !",
   "SUPPORT_US_SCREEN_PLATFORM": "Vous pouvez faire un don sur Ko-fi.",
   "MY_LOCATION_SCREEN_TITLE": "Localisation",
@@ -125,7 +125,7 @@
   "NOTIFICATIONS_SCREEN_NOTIFICATION_BODY": "N'oubliez pas d'ajouter vos émissions pour cette semaine.",
   "INFO_MODAL_SCREEN_METHODOLOGY": "Methodologie",
   "MY_DATA_SCREEN_TITLE": "Mes données",
-  "MY_DATA_SCREEN_BODY": "Avec NMF.earth, vous possédez vos données. Ca veut dire que nous ne les enregistrons sur aucun serveur, et donc que personne n'y a accès à part vous. Par de problème de sécurité, vos données ne quittent pas votre mobile. Par contre, vous êtes en charge de les sauvegarder au cas où vous perdriez votre téléphone par exemple. Utilisez le bouton d'export pour récupérer vos données et les enregistrer où vous voulez. Pour les ré-importer pressez le bouton d'import,  mais attention, ça écrasera les données présentes.",
+  "MY_DATA_SCREEN_BODY": "AvecTChain, vous possédez vos données. Ca veut dire que nous ne les enregistrons sur aucun serveur, et donc que personne n'y a accès à part vous. Par de problème de sécurité, vos données ne quittent pas votre mobile. Par contre, vous êtes en charge de les sauvegarder au cas où vous perdriez votre téléphone par exemple. Utilisez le bouton d'export pour récupérer vos données et les enregistrer où vous voulez. Pour les ré-importer pressez le bouton d'import,  mais attention, ça écrasera les données présentes.",
   "MY_DATA_SCREEN_EXPORT_MY_DATA": "Exporter mes données",
   "MY_DATA_SCREEN_IMPORT_DATA": "Importer des données",
   "MY_DATA_SCREEN_DELETE_ALL_MY_DATA": "Effacer mes données",
@@ -216,5 +216,5 @@
   "NO_EMISSION_COMPONENT_ADD_FIRST_EMISSION": "Ajouter ma première émission",
   "PERMISSIONS_REQUEST_COMPONENT_OPEN_SETTINGS": "Ouvrir les paramètres",
   "PERMISSIONS_REQUEST_COMPONENT_CAMERA_TITLE": "Pas d'accès à la caméra",
-  "PERMISSIONS_REQUEST_COMPONENT_CAMERA_SUBTITLE": "Pour utiliser cette fonction, veuillez donner à NMF.earth l'accès à la caméra, dans les paramètres du smartphone."
+  "PERMISSIONS_REQUEST_COMPONENT_CAMERA_SUBTITLE": "Pour utiliser cette fonction, veuillez donner àTChain l'accès à la caméra, dans les paramètres du smartphone."
 }

@@ -1,14 +1,14 @@
-<h1 align="center">🌱 NMF.earth app</h1>
+<h1 align="center">🌱TChain app</h1>
 <h3 align="center">Understand and reduce your carbon footprint</h3>
 
 <br />
 
 <p align="center">
-  <a href="https://apps.apple.com/us/app/nmf-earth/id1494561829">
-    <img alt="app-store" src="https://github.com/NotMyFaultEarth/nmf-app/blob/main/app-store.png" />
+  <a href="https://apps.apple.com/us/app/TChain/id1494561829">
+    <img alt="app-store" src="https://github.com/ilovehackathons/tchain/blob/main/app-store.png" />
   </a>
-  <a href="https://play.google.com/store/apps/details?id=nmf.earth">
-    <img alt="google-play" src="https://github.com/NotMyFaultEarth/nmf-app/blob/main/play-store.png" />
+  <a href="https://play.google.com/store/apps/details?id=TChain">
+    <img alt="google-play" src="https://github.com/ilovehackathons/tchain/blob/main/play-store.png" />
   </a>
 </p>
 
@@ -16,28 +16,28 @@
 
 <p align="center">
   <a href="https://www.figma.com/community/file/967052407514062912">
-    <img alt="figma" src="https://github.com/NotMyFaultEarth/nmf-app/blob/main/figma.png" />
+    <img alt="figma" src="https://github.com/ilovehackathons/tchain/blob/main/figma.png" />
   </a>
 </p>
 
 <br />
 
-![screenshots](https://github.com/NotMyFaultEarth/nmf-app/blob/main/app-preview.png)
+![screenshots](https://github.com/ilovehackathons/tchain/blob/main/app-preview.png)
 
-![](https://github.com/NMF-earth/nmf-app/workflows/Test%20CI/badge.svg)
-[![Depfu](https://badges.depfu.com/badges/f3b06c819202baf2a14b3241cbf249c9/overview.svg)](https://depfu.com/repos/github/NotMyFaultEarth/nmf-app?project_id=10243)
+![](https://github.com/ilovehackathons/tchain/workflows/Test%20CI/badge.svg)
+[![Depfu](https://badges.depfu.com/badges/f3b06c819202baf2a14b3241cbf249c9/overview.svg)](https://depfu.com/repos/github/ilovehackathons/tchain?project_id=10243)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 [![Build Status](https://img.shields.io/static/v1.svg?label=CSL&message=software%20against%20climate%20change&color=green?style=flat&logo=github)](https://github.com/climate-strike/license)
 [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
 
-Repository for the [NMF.earth](https://nmf.earth/) React Native application, built with Expo, Redux Toolkit and Typescript.
+Repository for the [TChain](https://github.com/ilovehackathons/tchain/) React Native application, built with Expo, Redux Toolkit and Typescript.
 Design can be found on [Figma](https://www.figma.com/community/file/967052407514062912).
 
 <br />
 
 ### 📊 Data source
 
-Carbon data comes from NMF's [carbon footprint repo](https://github.com/NMF-earth/carbon-footprint) while barcode product scanned data comes from [Open Food Facts](https://world.openfoodfacts.org/) api.
+Carbon data comes from NMF's [carbon footprint repo](https://github.com/ilovehackathons/carbon-footprint) while barcode product scanned data comes from [Open Food Facts](https://world.openfoodfacts.org/) api.
 
 <br />
 
@@ -178,9 +178,9 @@ Run `eas build -p ios` to build for the [App Store Connect](https://appstoreconn
 
 ### 👨‍💻 Contribute ❤️
 
-More than 30 developers have contribute to the app, thanks a lot to [them](https://github.com/NMF-earth/nmf-app/graphs/contributors)!
+More than 30 developers have contribute to the app, thanks a lot to [them](https://github.com/ilovehackathons/tchain/graphs/contributors)!
 
-Have a look to [contributing.md](https://github.com/NotMyFaultEarth/nmf-app/blob/main/contributing.md) if you want to contribute!
+Have a look to [contributing.md](https://github.com/ilovehackathons/tchain/blob/main/contributing.md) if you want to contribute!
 
 <br />
 
@@ -192,4 +192,4 @@ A big thank you to [Christopher Gwilliams](https://github.com/encima) and to th
 
 ### ©️ Open source - licence
 
-Repository and contributions are under [GNU General Public License v3.0](https://github.com/NotMyFaultEarth/nmf-app/blob/main/LICENSE)
+Repository and contributions are under [GNU General Public License v3.0](https://github.com/ilovehackathons/tchain/blob/main/LICENSE)

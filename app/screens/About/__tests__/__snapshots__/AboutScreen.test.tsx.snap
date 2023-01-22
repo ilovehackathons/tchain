@@ -88,7 +88,7 @@ exports[`AboutScreen renders correctly 1`] = `
         Can be found on 
       </Text.Primary>
       <Text.Link
-        url="https://github.com/NMF-earth/nmf-app"
+        url="https://github.com/ilovehackathons/tchain"
       >
         Github
       </Text.Link>

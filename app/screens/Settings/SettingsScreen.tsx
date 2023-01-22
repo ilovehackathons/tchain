@@ -47,8 +47,8 @@ const SettingsScreen: NavStatelessComponent = () => {
       onPress: navigator.openFaq,
     },
     {
-      title: "NMF.earth",
-      onPress: () => WebBrowser.openBrowserAsync("http://nmf.earth"),
+      title: "TChain",
+      onPress: () => WebBrowser.openBrowserAsync("https://github.com/ilovehackathons/tchain"),
     },
     {
       title: t("SETTINGS_SCREEN_ROADMAP"),
@@ -63,11 +63,12 @@ const SettingsScreen: NavStatelessComponent = () => {
     },
     {
       title: t("SETTINGS_SCREEN_FEEDBACK"),
-      onPress: () => WebBrowser.openBrowserAsync("https://nmf-earth.typeform.com/to/w0nNSk"),
+      onPress: () => WebBrowser.openBrowserAsync("https://tchain.typeform.com/to/w0nNSk"),
     },
     {
       title: t("SETTINGS_SCREEN_TERMS_OF_USE"),
-      onPress: () => WebBrowser.openBrowserAsync("http://nmf.earth/terms-of-use.pdf"),
+      onPress: () =>
+        WebBrowser.openBrowserAsync("https://github.com/ilovehackathons/tchain/terms-of-use.pdf"),
     },
   ];
 

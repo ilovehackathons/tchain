@@ -5,7 +5,7 @@ const buildNumber = 44;
 
 module.exports = () => {
   return {
-    name: "NMF.earth",
+    name: "TChain",
     plugins: ["sentry-expo"],
     slug: "not-my-fault-earth",
     privacy: "public",
@@ -28,13 +28,13 @@ module.exports = () => {
     },
     ios: {
       icon: "./assets/images/ios.icon.png",
-      bundleIdentifier: "nmf.earth",
+      bundleIdentifier: "TChain",
       supportsTablet: true,
       buildNumber: buildNumber.toString(),
     },
     android: {
       icon: "./assets/images/android.icon.png",
-      package: "nmf.earth",
+      package: "TChain",
       versionCode: buildNumber,
     },
     hooks: {
@@ -42,8 +42,8 @@ module.exports = () => {
         {
           file: "sentry-expo/upload-sourcemaps",
           config: {
-            organization: "nmf",
-            project: "nmf-earth",
+            organization: "ilovehackathons",
+            project: "TChain",
             authToken: process.env.SENTRY_AUTH_TOKEN,
           },
         },

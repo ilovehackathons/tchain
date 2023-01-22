@@ -319,7 +319,7 @@ exports[`renders correctly Link 1`] = `
         undefined,
       ]
     }
-    url="http://nmf.earth"
+    url="https://github.com/ilovehackathons/tchain"
   >
     test
   </Text>

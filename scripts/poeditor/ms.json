@@ -93,7 +93,7 @@
   "EMISSION_ITEM_SCREEN_MITIGATED": "Mitigasi",
   "EMISSION_ITEM_SCREEN_IS_MITIGATED": "Emisi ini telah dikurangi",
   "EMISSION_ITEM_SCREEN_IS_NOT_MITIGATED": "Emisi ini belum dikurangi",
-  "INTRO_SCREEN_WELCOME": "Selamat datang di NMF.earth",
+  "INTRO_SCREEN_WELCOME": "Selamat datang diTChain",
   "INTRO_SCREEN_CONTINUE_AND_ACCEPT_TERMS_OF_USE": "Dengan melanjutkan, Anda menyetujui persyaratan penggunaan kami.",
   "INTRO_SCREEN_TERMS_OF_USE": "Baca ketentuan penggunaan",
   "INTRO_SCREEN_I_AGREE": "saya setuju",
@@ -111,7 +111,7 @@
   "ABOUT_SCREEN_GITHUB": "Github",
   "SUPPORT_US_SCREEN_TITLE": "Dukung kami!",
   "SUPPORT_US_SCREEN_WHY_DONATE_TITLE": "Mengapa Anda harus mempertimbangkan untuk mendukung kami",
-  "SUPPORT_US_SCREEN_WHY_DONATE_CONTENT": "NMF.earth tidak mencari keuntungan, kami hanya mengumpulkan sedikit dana di Kickstarter dan kami terus bekerja keras dalam proyek ini meskipun tidak berkelanjutan secara finansial. Selain itu, kami memiliki banyak biaya seperti server, nama domain, lisensi perangkat lunak, akun pengembang apel, dll.",
+  "SUPPORT_US_SCREEN_WHY_DONATE_CONTENT": "TChain tidak mencari keuntungan, kami hanya mengumpulkan sedikit dana di Kickstarter dan kami terus bekerja keras dalam proyek ini meskipun tidak berkelanjutan secara finansial. Selain itu, kami memiliki banyak biaya seperti server, nama domain, lisensi perangkat lunak, akun pengembang apel, dll.",
   "SUPPORT_US_SCREEN_TITLE_CONSIDER_DONATE": "Jika Anda menyukai proyek ini, harap pertimbangkan untuk menyumbangkan sejumlah kecil untuk membantu kami terus berjalan!",
   "SUPPORT_US_SCREEN_PLATFORM": "Anda dapat melakukannya di Ko-fi.",
   "MY_LOCATION_SCREEN_TITLE": "Lokasi",
@@ -125,7 +125,7 @@
   "NOTIFICATIONS_SCREEN_NOTIFICATION_BODY": "Ini adalah pengingat yang baik untuk menambahkan emisi Anda untuk minggu ini.",
   "INFO_MODAL_SCREEN_METHODOLOGY": "Metodologi",
   "MY_DATA_SCREEN_TITLE": "Data saya",
-  "MY_DATA_SCREEN_BODY": "Dengan NMF.earth, Anda memiliki data Anda. Ini berarti bahwa kami tidak menyimpan data Anda di server mana pun dan oleh karena itu tidak seorang pun kecuali Anda yang dapat mengaksesnya. Tidak ada masalah keamanan, data Anda tidak pernah meninggalkan ponsel Anda. Namun, itu juga berarti Anda bertanggung jawab untuk menyimpan data Anda jika Anda kehilangan ponsel misalnya. Untuk melakukannya, gunakan tombol ekspor di bawah ini untuk mendapatkan data Anda dan menyimpannya di mana pun Anda mau. Ketika Anda ingin mengimpor data lama, cukup tekan tombol impor tetapi hati-hati karena itu juga akan menghapus data lama Anda.",
+  "MY_DATA_SCREEN_BODY": "DenganTChain, Anda memiliki data Anda. Ini berarti bahwa kami tidak menyimpan data Anda di server mana pun dan oleh karena itu tidak seorang pun kecuali Anda yang dapat mengaksesnya. Tidak ada masalah keamanan, data Anda tidak pernah meninggalkan ponsel Anda. Namun, itu juga berarti Anda bertanggung jawab untuk menyimpan data Anda jika Anda kehilangan ponsel misalnya. Untuk melakukannya, gunakan tombol ekspor di bawah ini untuk mendapatkan data Anda dan menyimpannya di mana pun Anda mau. Ketika Anda ingin mengimpor data lama, cukup tekan tombol impor tetapi hati-hati karena itu juga akan menghapus data lama Anda.",
   "MY_DATA_SCREEN_EXPORT_MY_DATA": "Ekspor data saya",
   "MY_DATA_SCREEN_IMPORT_DATA": "Impor data",
   "MY_DATA_SCREEN_DELETE_ALL_MY_DATA": "Hapus semua data saya",
@@ -216,5 +216,5 @@
   "NO_EMISSION_COMPONENT_ADD_FIRST_EMISSION": "Tambahkan emisi pertama saya",
   "PERMISSIONS_REQUEST_COMPONENT_OPEN_SETTINGS": "Buka pengaturan",
   "PERMISSIONS_REQUEST_COMPONENT_CAMERA_TITLE": "Tidak ada akses ke kamera",
-  "PERMISSIONS_REQUEST_COMPONENT_CAMERA_SUBTITLE": "Tolong beri akses aplikasi NMF.earth ke kamera di pengaturan ponsel Anda untuk menggunakan fitur ini."
+  "PERMISSIONS_REQUEST_COMPONENT_CAMERA_SUBTITLE": "Tolong beri akses aplikasiTChain ke kamera di pengaturan ponsel Anda untuk menggunakan fitur ini."
 }

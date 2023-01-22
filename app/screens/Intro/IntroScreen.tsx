@@ -28,7 +28,11 @@ const IntroScreen: React.FC = () => {
           {t("INTRO_SCREEN_CONTINUE_AND_ACCEPT_TERMS_OF_USE")}
         </Text.Tertiary>
         <TouchableOpacity
-          onPress={() => WebBrowser.openBrowserAsync("http://nmf.earth/terms-of-use.pdf")}
+          onPress={() =>
+            WebBrowser.openBrowserAsync(
+              "https://github.com/ilovehackathons/tchain/terms-of-use.pdf"
+            )
+          }
         >
           <Text.Tertiary green>{t("INTRO_SCREEN_TERMS_OF_USE")}</Text.Tertiary>
         </TouchableOpacity>
