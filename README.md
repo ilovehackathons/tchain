@@ -1,10 +1,16 @@
-<h1 align="center">🌱TChain app</h1>
-<h3 align="center">Understand and reduce your carbon footprint</h3>
+<h1 align="center">💰 TChain app</h1>
+<h3 align="center">Understand and optimize your crypto investments</h3>
+
+## About
+
+Created at the [hubraum](https://www.hubraum.com) [T Phone Hackathon](https://www.meetup.com/t-developers-in-berlin/events/290281723), which took place in Berlin from 21.01.2023 to 22.01.2023.
+
+The [NMF.earth](https://github.com/NMF-earth/nmf-app) app was used as the starting point for a crypto investing app.
 
 <br />
 
 <p align="center">
-  <a href="https://apps.apple.com/us/app/TChain/id1494561829">
+  <a href="https://apps.apple.com/us/app/TChain">
     <img alt="app-store" src="https://github.com/ilovehackathons/tchain/blob/main/app-store.png" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=TChain">
@@ -15,14 +21,14 @@
 <br />
 
 <p align="center">
-  <a href="https://www.figma.com/community/file/967052407514062912">
+  <a href="https://www.figma.com/community/file">
     <img alt="figma" src="https://github.com/ilovehackathons/tchain/blob/main/figma.png" />
   </a>
 </p>
 
 <br />
 
-![screenshots](https://github.com/ilovehackathons/tchain/blob/main/app-preview.png)
+<!-- ![screenshots](https://github.com/ilovehackathons/tchain/blob/main/app-preview.png) -->
 
 ![](https://github.com/ilovehackathons/tchain/workflows/Test%20CI/badge.svg)
 [![Depfu](https://badges.depfu.com/badges/f3b06c819202baf2a14b3241cbf249c9/overview.svg)](https://depfu.com/repos/github/ilovehackathons/tchain?project_id=10243)
@@ -37,7 +43,7 @@ Design can be found on [Figma](https://www.figma.com/community/file/967052407514
 
 ### 📊 Data source
 
-Carbon data comes from NMF's [carbon footprint repo](https://github.com/ilovehackathons/carbon-footprint) while barcode product scanned data comes from [Open Food Facts](https://world.openfoodfacts.org/) api.
+Coin data comes from [Coinbase](https://coinbase.com) while NFT data comes from [Open Sea](https://opensea.io/) api.
 
 <br />
 
@@ -130,9 +136,9 @@ $ yarn prestorybook
 
 <br />
 
-### 📗 Sustainable guide
+### 📗 Investment guide
 
-To place new `.md` files inside `guides` folder or modify existing guide and then run `node scripts/generate-guides.js` to generate a new sustainable guide. Images can be used in the `.md` as follow: `![Earth](earth.png)` and should be place in `assets/images/guide`.
+To place new `.md` files inside `guides` folder or modify existing guide and then run `node scripts/generate-guides.js` to generate a new investment guide. Images can be used in the `.md` as follow: `![Token](token.png)` and should be place in `assets/images/guide`.
 
 <br />
 
@@ -140,7 +146,7 @@ For methodology screen, just run `node scripts/generate-methodology.js` to updat
 
 <br />
 
-For emission info screen, just run `node scripts/generate-emission-info.js` to update `emission-info.json` from `assets/emission-info/markdown/*.md`.
+For token info screen, just run `node scripts/generate-token-info.js` to update `token-info.json` from `assets/token-info/markdown/*.md`.
 
 <br />
 
