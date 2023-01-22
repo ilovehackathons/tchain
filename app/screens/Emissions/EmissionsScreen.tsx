@@ -95,14 +95,116 @@ const EmissionsScreen: React.FC<Props> = ({ emissions = [], recurringEmissions }
           />
         )}
       />
-      <Text>Ethereum: 1 ETH = {ethPrice} $</Text>
-      <Text>Bitcoin: 1 BTC = {btcPrice} $</Text>
-      <Text>Solana: 1 SOL = {solPrice} $</Text>
-      <Text>Polkadot: 1 DOT = {dotPrice} $</Text>
-      <Text>Ethereum Classic: 1 ETC = {etcPrice} $</Text>
-      <Text>BNB: 1 BNB = {bnbPrice} $</Text>
-      <Text>Galxe: 1 GAL = {galPrice} $</Text>
-      <Text>Green Metaverse Token: 1 GMT = {gmtPrice} $</Text>
+
+      <View style={[{ backgroundColor: "#e20074", padding: 5 }]}>
+        <View
+          style={[
+            {
+              flexDirection: "row",
+            },
+          ]}
+        >
+          <Text style={{ flex: 1, color: "#fff", fontWeight: "bold", fontSize: 18 }}>Token</Text>
+          <Text style={{ flex: 1, color: "#fff", fontWeight: "bold", fontSize: 18 }}>Symbol</Text>
+          <Text style={{ flex: 1, color: "#fff", fontWeight: "bold", fontSize: 18 }}>Price</Text>
+        </View>
+
+        <View
+          style={[
+            {
+              flexDirection: "row",
+            },
+          ]}
+        >
+          <Text style={{ flex: 1, color: "#fff" }}>Ethereum</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>ETH</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>{ethPrice} $</Text>
+        </View>
+
+        <View
+          style={[
+            {
+              flexDirection: "row",
+            },
+          ]}
+        >
+          <Text style={{ flex: 1, color: "#fff" }}>Bitcoin</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>BTC</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>{btcPrice} $</Text>
+        </View>
+
+        <View
+          style={[
+            {
+              flexDirection: "row",
+            },
+          ]}
+        >
+          <Text style={{ flex: 1, color: "#fff" }}>Solana</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>SOL</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>{solPrice} $</Text>
+        </View>
+
+        <View
+          style={[
+            {
+              flexDirection: "row",
+            },
+          ]}
+        >
+          <Text style={{ flex: 1, color: "#fff" }}>Polkadot</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>DOT</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>{dotPrice} $</Text>
+        </View>
+
+        <View
+          style={[
+            {
+              flexDirection: "row",
+            },
+          ]}
+        >
+          <Text style={{ flex: 1, color: "#fff" }}>Ethereum Classic</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>ETC</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>{etcPrice} $</Text>
+        </View>
+
+        <View
+          style={[
+            {
+              flexDirection: "row",
+            },
+          ]}
+        >
+          <Text style={{ flex: 1, color: "#fff" }}>BNB</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>BNB</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>{bnbPrice} $</Text>
+        </View>
+
+        <View
+          style={[
+            {
+              flexDirection: "row",
+            },
+          ]}
+        >
+          <Text style={{ flex: 1, color: "#fff" }}>Galxe</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>GAL</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>{galPrice} $</Text>
+        </View>
+
+        <View
+          style={[
+            {
+              flexDirection: "row",
+            },
+          ]}
+        >
+          <Text style={{ flex: 1, color: "#fff" }}>Green Metaverse Token</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>GMT</Text>
+          <Text style={{ flex: 1, color: "#fff" }}>{gmtPrice} $</Text>
+        </View>
+      </View>
     </>
   );
 };

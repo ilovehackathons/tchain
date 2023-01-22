@@ -204,46 +204,391 @@ Array [
       </View>
     </View>
   </RCTScrollView>,
-  <Text>
-    Ethereum: 1 ETH = 
-    0
-     $
-  </Text>,
-  <Text>
-    Bitcoin: 1 BTC = 
-    0
-     $
-  </Text>,
-  <Text>
-    Solana: 1 SOL = 
-    0
-     $
-  </Text>,
-  <Text>
-    Polkadot: 1 DOT = 
-    0
-     $
-  </Text>,
-  <Text>
-    Ethereum Classic: 1 ETC = 
-    0
-     $
-  </Text>,
-  <Text>
-    BNB: 1 BNB = 
-    0
-     $
-  </Text>,
-  <Text>
-    Galxe: 1 GAL = 
-    0
-     $
-  </Text>,
-  <Text>
-    Green Metaverse Token: 1 GMT = 
-    0
-     $
-  </Text>,
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#e20074",
+          "padding": 5,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Token
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Symbol
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Price
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Ethereum
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        ETH
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Bitcoin
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BTC
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Solana
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        SOL
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Polkadot
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        DOT
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Ethereum Classic
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        ETC
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BNB
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BNB
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Galxe
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        GAL
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Green Metaverse Token
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        GMT
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+  </View>,
 ]
 `;
 
@@ -309,46 +654,391 @@ Array [
       </View>
     </View>
   </RCTScrollView>,
-  <Text>
-    Ethereum: 1 ETH = 
-    0
-     $
-  </Text>,
-  <Text>
-    Bitcoin: 1 BTC = 
-    0
-     $
-  </Text>,
-  <Text>
-    Solana: 1 SOL = 
-    0
-     $
-  </Text>,
-  <Text>
-    Polkadot: 1 DOT = 
-    0
-     $
-  </Text>,
-  <Text>
-    Ethereum Classic: 1 ETC = 
-    0
-     $
-  </Text>,
-  <Text>
-    BNB: 1 BNB = 
-    0
-     $
-  </Text>,
-  <Text>
-    Galxe: 1 GAL = 
-    0
-     $
-  </Text>,
-  <Text>
-    Green Metaverse Token: 1 GMT = 
-    0
-     $
-  </Text>,
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#e20074",
+          "padding": 5,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Token
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Symbol
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Price
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Ethereum
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        ETH
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Bitcoin
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BTC
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Solana
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        SOL
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Polkadot
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        DOT
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Ethereum Classic
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        ETC
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BNB
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BNB
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Galxe
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        GAL
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Green Metaverse Token
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        GMT
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+  </View>,
 ]
 `;
 
@@ -511,46 +1201,391 @@ Array [
       </View>
     </View>
   </RCTScrollView>,
-  <Text>
-    Ethereum: 1 ETH = 
-    0
-     $
-  </Text>,
-  <Text>
-    Bitcoin: 1 BTC = 
-    0
-     $
-  </Text>,
-  <Text>
-    Solana: 1 SOL = 
-    0
-     $
-  </Text>,
-  <Text>
-    Polkadot: 1 DOT = 
-    0
-     $
-  </Text>,
-  <Text>
-    Ethereum Classic: 1 ETC = 
-    0
-     $
-  </Text>,
-  <Text>
-    BNB: 1 BNB = 
-    0
-     $
-  </Text>,
-  <Text>
-    Galxe: 1 GAL = 
-    0
-     $
-  </Text>,
-  <Text>
-    Green Metaverse Token: 1 GMT = 
-    0
-     $
-  </Text>,
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#e20074",
+          "padding": 5,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Token
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Symbol
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Price
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Ethereum
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        ETH
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Bitcoin
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BTC
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Solana
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        SOL
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Polkadot
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        DOT
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Ethereum Classic
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        ETC
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BNB
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BNB
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Galxe
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        GAL
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Green Metaverse Token
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        GMT
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+  </View>,
 ]
 `;
 
@@ -644,45 +1679,390 @@ Array [
       </View>
     </View>
   </RCTScrollView>,
-  <Text>
-    Ethereum: 1 ETH = 
-    0
-     $
-  </Text>,
-  <Text>
-    Bitcoin: 1 BTC = 
-    0
-     $
-  </Text>,
-  <Text>
-    Solana: 1 SOL = 
-    0
-     $
-  </Text>,
-  <Text>
-    Polkadot: 1 DOT = 
-    0
-     $
-  </Text>,
-  <Text>
-    Ethereum Classic: 1 ETC = 
-    0
-     $
-  </Text>,
-  <Text>
-    BNB: 1 BNB = 
-    0
-     $
-  </Text>,
-  <Text>
-    Galxe: 1 GAL = 
-    0
-     $
-  </Text>,
-  <Text>
-    Green Metaverse Token: 1 GMT = 
-    0
-     $
-  </Text>,
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#e20074",
+          "padding": 5,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Token
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Symbol
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+            "fontSize": 18,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Price
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Ethereum
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        ETH
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Bitcoin
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BTC
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Solana
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        SOL
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Polkadot
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        DOT
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Ethereum Classic
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        ETC
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BNB
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        BNB
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Galxe
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        GAL
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        Green Metaverse Token
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        GMT
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "flex": 1,
+          }
+        }
+      >
+        0
+         $
+      </Text>
+    </View>
+  </View>,
 ]
 `;
