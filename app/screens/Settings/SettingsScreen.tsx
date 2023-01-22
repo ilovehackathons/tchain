@@ -52,18 +52,15 @@ const SettingsScreen: NavStatelessComponent = () => {
     },
     {
       title: t("SETTINGS_SCREEN_ROADMAP"),
-      onPress: () =>
-        WebBrowser.openBrowserAsync(
-          "https://www.notion.so/notmyfault/cb98dacb015f4a18a7ebac5c0319495b?v=da9ec9ce3096417186dfd229a82aa90e"
-        ),
+      onPress: () => WebBrowser.openBrowserAsync("https://www.notion.so/ilovehackathons/"),
     },
     {
       title: t("SETTINGS_SCREEN_HELP_TRANSLATION"),
-      onPress: () => Linking.openURL("https://poeditor.com/join/project?hash=0MbginCsWp"),
+      onPress: () => Linking.openURL("https://poeditor.com/join/project?hash="),
     },
     {
       title: t("SETTINGS_SCREEN_FEEDBACK"),
-      onPress: () => WebBrowser.openBrowserAsync("https://tchain.typeform.com/to/w0nNSk"),
+      onPress: () => WebBrowser.openBrowserAsync("https://tchain.typeform.com/to/"),
     },
     {
       title: t("SETTINGS_SCREEN_TERMS_OF_USE"),

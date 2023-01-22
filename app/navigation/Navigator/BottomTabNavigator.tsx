@@ -26,7 +26,7 @@ const EmissionsOptions = {
 
 const ActOptions = {
   tabBarLabel: t("ACT_SCREEN_TAB_NAME"),
-  tabBarIcon: ({ focused }) => <TabBarIcon focused={focused} name={"md-hand-left-sharp"} />,
+  tabBarIcon: ({ focused }) => <TabBarIcon focused={focused} name={"md-rocket"} />,
 };
 
 const SettingsOptions = {
@@ -72,7 +72,7 @@ const BottomTabNavigator = (): React.ReactElement => {
         options={AddEmissionOptions}
         component={AddEmissionNavigator}
       />
-      <BottomTab.Screen name="Act" options={ActOptions} component={ActNavigator} />
+      <BottomTab.Screen name="Level up" options={ActOptions} component={ActNavigator} />
       <BottomTab.Screen
         name="SettingsNavigator"
         options={SettingsOptions}

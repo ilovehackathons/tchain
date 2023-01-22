@@ -49,7 +49,7 @@ exports[`EmissionsScreen renders correctly 1`] = `
        gC02eq
     </Text.Primary>
     <Text.H3>
-      Mitigation
+      Return
     </Text.H3>
     <Text.Primary
       darkGray={true}
@@ -59,7 +59,7 @@ exports[`EmissionsScreen renders correctly 1`] = `
         }
       }
     >
-      This emission hasn't been mitigated
+      This investment has increased in value by 10 %
     </Text.Primary>
     <View
       style={

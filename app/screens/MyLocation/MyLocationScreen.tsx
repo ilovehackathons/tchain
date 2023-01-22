@@ -54,7 +54,7 @@ const MyLocationScreen: NavStatelessComponent = () => {
           )}
         </Text.Primary>
         <Text.Primary bold green style={styles.carbonIntensity}>
-          {" gCO₂eq/kWh"}
+          {" €/kWh"}
         </Text.Primary>
       </View>
       <ScrollView style={styles.scrollContainer}>

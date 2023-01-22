@@ -88,7 +88,7 @@ const Transport: React.FC<Props> = ({
             }
             maximumFractionDigits={2}
           />{" "}
-          <Text.Primary>kgCO2eq</Text.Primary>
+          <Text.Primary>€ fiat</Text.Primary>
         </Text.H2>
       </View>
     </>

@@ -45,7 +45,7 @@ const EmissionListItem: React.FC<EmissionListItemProps> = ({
       <Text.Primary numberOfLines={1}>{name.length ? name : title}</Text.Primary>
       <View style={styles.detailsContainer}>
         <Text.Tertiary numberOfLines={1} lightGray>
-          <FormattedNumber maximumFractionDigits={co2value >= 1 ? 2 : 4} value={co2value} /> kgCO2
+          <FormattedNumber maximumFractionDigits={co2value >= 1 ? 2 : 4} value={co2value} /> € fiat
         </Text.Tertiary>
         {isMitigated && (
           <>

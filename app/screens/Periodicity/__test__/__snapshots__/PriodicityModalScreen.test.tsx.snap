@@ -19,7 +19,7 @@ exports[`InfoModalScreen renders correctly 1`] = `
       }
     >
       <Text.H3>
-        How often this emission happens?
+        How often do you invest?
       </Text.H3>
       <View
         style={

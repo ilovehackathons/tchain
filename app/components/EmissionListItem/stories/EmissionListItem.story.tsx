@@ -52,7 +52,7 @@
 //           id: "123",
 //           emissionModelType: TransportType.boat,
 //           isMitigated: boolean("isMitigated", false),
-//           title: text("title", "Boat"),
+//           title: text("title", "ChainLink Token (LINK)"),
 //           co2value: number("co2value", 2.1),
 //           // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 //           // @ts-ignore

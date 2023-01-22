@@ -27,7 +27,7 @@ exports[`<RecurringEmissionsScreen /> render 1`] = `
         bold={true}
         darkGray={true}
       >
-        NaN kgCO2eq
+        NaN € fiat
       </Text.Primary>
     </View>
   }
@@ -81,7 +81,7 @@ exports[`<RecurringEmissionsScreen /> render 1`] = `
           bold={true}
           darkGray={true}
         >
-          NaN kgCO2eq
+          NaN € fiat
         </Text.Primary>
       </View>
     </View>

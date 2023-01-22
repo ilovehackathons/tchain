@@ -63,7 +63,7 @@ const Streaming: React.FC<Props> = ({
             value={carbonValue > 1 ? carbonValue : carbonValue * 1000}
             maximumFractionDigits={2}
           />{" "}
-          <Text.Primary>{carbonValue > 1 ? "kgCO2eq" : "gCO2eq"}</Text.Primary>
+          <Text.Primary>{carbonValue > 1 ? "€ fiat" : "gCO2eq"}</Text.Primary>
         </Text.H2>
       </View>
     </>

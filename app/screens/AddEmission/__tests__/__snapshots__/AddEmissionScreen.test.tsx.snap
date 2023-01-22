@@ -46,8 +46,8 @@ exports[`AddEmissionScreen renders correctly 1`] = `
     <TextInput
       isOptional={true}
       onChangeText={[Function]}
-      placeholder="e.g burger, flight from Paris to Rome…"
-      title="Name this emission "
+      placeholder="e.g. bargain, HODL for 10 years…"
+      title="Name this investment "
       value=""
     />
     <Modal
@@ -121,7 +121,7 @@ exports[`AddEmissionScreen renders correctly 1`] = `
           "margin": 16,
         }
       }
-      text="Add this emission"
+      text="Add this investment"
     />
   </KeyboardAwareScrollView>
 </GlobalizeProvider>

@@ -1,9 +1,9 @@
 {
   "PERIODICITY_MODAL_SCREEN_TITLE": "Periodicity",
-  "PERIODICITY_MODAL_SCREEN_OFTEN": "How often this emission happens?",
+  "PERIODICITY_MODAL_SCREEN_OFTEN": "How often do you invest?",
   "PERIODICITY_MODAL_SCREEN_WEEKLY": "Weekly",
   "PERIODICITY_MODAL_SCREEN_MONTHLY": "Monthly",
-  "PERIODICITY_MODAL_SCREEN_DAYS": "Which days is this emission repeat?",
+  "PERIODICITY_MODAL_SCREEN_DAYS": "On which days do you invest?",
   "PERIODICITY_MODAL_SCREEN_OCCURRENCES": "Occurences?",
   "PERIODICITY_MODAL_SCREEN_COMFIRM": "Confirm",
   "PERIODICITY_MODAL_SCREEN_CANCEL_NO_PERIODICITY": "Cancel - No periodicity"

@@ -1,8 +1,8 @@
-# How is your carbon footprint calculated?
+# How is your crypto portfolio calculated?
 
 It's important to say that there is no perfect calculation method because there are too many parameters to take into account, such as the weather which can drastically influence plane fuel consumption and some parameters that we can't predict, like the lifespan of a car for example.
 
-However, what is important is the order of magnitude in order to compare and reduce our carbon footprint. Alls coefficients used are from [Ducky](https://static.ducky.eco/calculator_documentation.pdf) and [Ademe](https://www.bilans-ges.ademe.fr/).
+However, what is important is the order of magnitude in order to compare and reduce our crypto portfolio. Alls coefficients used are from [Ducky](https://static.ducky.eco/calculator_documentation.pdf) and [Ademe](https://www.bilans-ges.ademe.fr/).
 
 ## Transport
 

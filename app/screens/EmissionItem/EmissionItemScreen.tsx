@@ -112,7 +112,7 @@ const EmissionItemScreen = ({ language = "" }: LocalizationContextProps) => {
           maximumFractionDigits={2}
           value={co2Emission > 1 ? co2Emission : co2Emission * 1000}
         />{" "}
-        {co2Emission > 1 ? " kgC02eq" : " gC02eq"}
+        {co2Emission > 1 ? " € fiat" : " gC02eq"}
       </Text.Primary>
 
       {!isRecurringEmission && (

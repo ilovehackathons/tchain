@@ -17,7 +17,7 @@ exports[`EmissionsScreen renders correctly 1`] = `
             "onPress": [Function],
             "periodType": "monthly",
             "times": 1,
-            "title": "Boat",
+            "title": "ChainLink Token (LINK)",
             "value": 100,
             "weekDays": Array [],
           },
@@ -47,7 +47,7 @@ exports[`EmissionsScreen renders correctly 1`] = `
             "id": "3",
             "isMitigated": true,
             "onPress": [Function],
-            "title": "Boat",
+            "title": "ChainLink Token (LINK)",
             "value": 100,
           },
         ],
@@ -117,7 +117,7 @@ exports[`EmissionsScreen renders correctly 1`] = `
         iconName="md-boat"
         id="4"
         onPress={[Function]}
-        title="Boat"
+        title="ChainLink Token (LINK)"
       />
     </View>
     <View
@@ -157,7 +157,7 @@ exports[`EmissionsScreen renders correctly 1`] = `
         id="3"
         isMitigated={true}
         onPress={[Function]}
-        title="Boat"
+        title="ChainLink Token (LINK)"
       />
     </View>
     <View
@@ -296,7 +296,7 @@ exports[`EmissionsScreen renders correctly if only normal emissions 1`] = `
             "id": "3",
             "isMitigated": true,
             "onPress": [Function],
-            "title": "Boat",
+            "title": "ChainLink Token (LINK)",
             "value": 100,
           },
         ],
@@ -380,7 +380,7 @@ exports[`EmissionsScreen renders correctly if only normal emissions 1`] = `
         id="3"
         isMitigated={true}
         onPress={[Function]}
-        title="Boat"
+        title="ChainLink Token (LINK)"
       />
     </View>
     <View
@@ -445,7 +445,7 @@ exports[`EmissionsScreen renders correctly if only recurring emissions 1`] = `
             "onPress": [Function],
             "periodType": "monthly",
             "times": 1,
-            "title": "Boat",
+            "title": "ChainLink Token (LINK)",
             "value": 100,
             "weekDays": Array [],
           },
@@ -497,7 +497,7 @@ exports[`EmissionsScreen renders correctly if only recurring emissions 1`] = `
         iconName="md-boat"
         id="4"
         onPress={[Function]}
-        title="Boat"
+        title="ChainLink Token (LINK)"
       />
     </View>
     <View

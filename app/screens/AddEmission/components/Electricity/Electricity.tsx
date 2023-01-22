@@ -59,7 +59,7 @@ const Electricity: React.FC<Props> = ({
             value={sliderValue * electricity[electricityCountry]}
             maximumFractionDigits={2}
           />{" "}
-          <Text.Primary>kgCO2eq</Text.Primary>
+          <Text.Primary>€ fiat</Text.Primary>
         </Text.H2>
       </View>
     </>

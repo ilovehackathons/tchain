@@ -74,7 +74,7 @@ exports[`FaqScreen renders correctly 1`] = `
               }
             }
           >
-            Why do I have to enter manually my emissions?
+            Why do I have to enter manually my investments?
           </Text.H3>
         </View>
       </View>
@@ -132,7 +132,7 @@ exports[`FaqScreen renders correctly 1`] = `
               }
             }
           >
-            How accurate are my carbon emissions?
+            How accurate are my crypto investments?
           </Text.H3>
         </View>
       </View>

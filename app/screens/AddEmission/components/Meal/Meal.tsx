@@ -51,7 +51,7 @@ const Meal: React.FC<Props> = ({ emissionModelType, setQuantity, defaultValueSli
             value={sliderValue * meal[emissionModelType]}
             maximumFractionDigits={2}
           />{" "}
-          <Text.Primary>kgCO2eq</Text.Primary>
+          <Text.Primary>€ fiat</Text.Primary>
         </Text.H2>
       </View>
     </>

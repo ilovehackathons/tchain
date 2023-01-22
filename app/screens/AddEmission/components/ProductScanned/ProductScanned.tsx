@@ -41,7 +41,7 @@ const ProductScanned: React.FC<Props> = ({ setCo2eqKilograms, productCarbonFootp
 
           <Text.H2 darkGray>
             {emissionAmount}
-            <Text.Primary>{" kgCO2eq"}</Text.Primary>
+            <Text.Primary>{" € fiat"}</Text.Primary>
           </Text.H2>
         </View>
       </View>

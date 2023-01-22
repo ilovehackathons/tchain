@@ -17,7 +17,7 @@ exports[`MyLocationScreen renders correctly 1`] = `
       }
     }
   >
-    Please select a country in order to improve emissions calculations for streaming and electricity.
+    Please select a country in order to improve investment suggestions for crypto mining.
   </Text.Primary>
   <View
     style={
@@ -33,7 +33,7 @@ exports[`MyLocationScreen renders correctly 1`] = `
         }
       }
     >
-      My carbon intensity : 
+      My electricity price : 
     </Text.Primary>
     <Text.Primary
       bold={true}
@@ -55,7 +55,7 @@ exports[`MyLocationScreen renders correctly 1`] = `
         }
       }
     >
-       gCO₂eq/kWh
+       €/kWh
     </Text.Primary>
   </View>
   <RCTScrollView

@@ -27,7 +27,7 @@ exports[`<MonthlyEmissions /> render 1`] = `
         bold={true}
         darkGray={true}
       >
-        20.08 kgCO2eq
+        20.08 € fiat
       </Text.Primary>
       <Text.Secondary
         green={true}
@@ -60,7 +60,7 @@ exports[`<MonthlyEmissions /> render 1`] = `
         "id": "12",
         "isMitigated": true,
         "onPress": [Function],
-        "title": "Boat",
+        "title": "ChainLink Token (LINK)",
         "value": 100,
       },
     ]
@@ -114,7 +114,7 @@ exports[`<MonthlyEmissions /> render 1`] = `
           bold={true}
           darkGray={true}
         >
-          20.08 kgCO2eq
+          20.08 € fiat
         </Text.Primary>
         <Text.Secondary
           green={true}
@@ -149,7 +149,7 @@ exports[`<MonthlyEmissions /> render 1`] = `
         id="12"
         isMitigated={true}
         onPress={[Function]}
-        title="Boat"
+        title="ChainLink Token (LINK)"
       />
     </View>
   </View>

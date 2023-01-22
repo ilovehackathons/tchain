@@ -28,7 +28,7 @@ const RecurringEmissionsScreen: NavStatelessComponent = () => {
   const renderHeader = () => (
     <View style={styles.containerHeader}>
       <Text.Primary darkGray bold>
-        {`${co2value.toFixed(2)} kgCO2eq`}
+        {`${co2value.toFixed(2)} € fiat`}
       </Text.Primary>
     </View>
   );

@@ -27,7 +27,7 @@ const Custom: React.FC<Props> = ({ setCo2eqKilograms, defaultValueSlider }) => {
         <View style={{ flexDirection: "row" }}>
           <Text.H2 darkGray>
             {Math.round(sliderValue)}
-            <Text.Primary>{" kgCO2eq"}</Text.Primary>
+            <Text.Primary>{" € fiat"}</Text.Primary>
           </Text.H2>
         </View>
       </View>
