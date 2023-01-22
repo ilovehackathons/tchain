@@ -1,520 +1,548 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`EmissionsScreen renders correctly 1`] = `
-<RCTScrollView
-  ListFooterComponent={[Function]}
-  data={
-    Array [
-      Object {
-        "data": Array [
-          Object {
-            "co2value": 0.0803,
-            "creationDate": "2020-03-01T12:08:16.623Z",
-            "emissionModelType": "boat",
-            "emissionType": "transport",
-            "iconName": "md-boat",
-            "id": "4",
-            "onPress": [Function],
-            "periodType": "monthly",
-            "times": 1,
-            "title": "ChainLink Token (LINK)",
-            "value": 100,
-            "weekDays": Array [],
-          },
-        ],
-        "title": "Recurring emissions",
-      },
-      Object {
-        "data": Array [
-          Object {
-            "co2value": 20,
-            "creationDate": "2020-03-01T12:08:16.623Z",
-            "emissionModelType": "beans",
-            "emissionType": "food",
-            "iconName": "md-nutrition",
-            "id": "2",
-            "isMitigated": false,
-            "onPress": [Function],
-            "title": "Beans",
-            "value": 10,
-          },
-          Object {
-            "co2value": 0.0803,
-            "creationDate": "2020-03-01T12:08:16.623Z",
-            "emissionModelType": "boat",
-            "emissionType": "transport",
-            "iconName": "md-boat",
-            "id": "3",
-            "isMitigated": true,
-            "onPress": [Function],
-            "title": "ChainLink Token (LINK)",
-            "value": 100,
-          },
-        ],
-        "date": "2020-03-01T00:00:00+00:00",
-      },
-      Object {
-        "data": Array [
-          Object {
-            "co2value": 60,
-            "creationDate": "2020-01-01T12:08:16.623Z",
-            "emissionModelType": "beans",
-            "emissionType": "food",
-            "iconName": "md-nutrition",
-            "id": "1",
-            "isMitigated": false,
-            "onPress": [Function],
-            "title": "Beans",
-            "value": 30,
-          },
-        ],
-        "date": "2020-01-01T00:00:00+00:00",
-      },
-    ]
-  }
-  getItem={[Function]}
-  getItemCount={[Function]}
-  keyExtractor={[Function]}
-  onContentSizeChange={[Function]}
-  onLayout={[Function]}
-  onMomentumScrollBegin={[Function]}
-  onMomentumScrollEnd={[Function]}
-  onScroll={[Function]}
-  onScrollBeginDrag={[Function]}
-  onScrollEndDrag={[Function]}
-  renderItem={[Function]}
-  scrollEventThrottle={50}
-  stickyHeaderIndices={
-    Array [
-      0,
-      3,
-      7,
-    ]
-  }
-  style={
-    Object {
-      "backgroundColor": "#FFFFFF",
-      "flex": 1,
+Array [
+  <RCTScrollView
+    ListFooterComponent={[Function]}
+    data={
+      Array [
+        Object {
+          "data": Array [
+            Object {
+              "co2value": 0.0803,
+              "creationDate": "2020-03-01T12:08:16.623Z",
+              "emissionModelType": "boat",
+              "emissionType": "transport",
+              "iconName": "md-boat",
+              "id": "4",
+              "onPress": [Function],
+              "periodType": "monthly",
+              "times": 1,
+              "title": "ChainLink Token (LINK)",
+              "value": 100,
+              "weekDays": Array [],
+            },
+          ],
+          "title": "Recurring emissions",
+        },
+        Object {
+          "data": Array [
+            Object {
+              "co2value": 20,
+              "creationDate": "2020-03-01T12:08:16.623Z",
+              "emissionModelType": "beans",
+              "emissionType": "food",
+              "iconName": "md-nutrition",
+              "id": "2",
+              "isMitigated": false,
+              "onPress": [Function],
+              "title": "Beans",
+              "value": 10,
+            },
+            Object {
+              "co2value": 0.0803,
+              "creationDate": "2020-03-01T12:08:16.623Z",
+              "emissionModelType": "boat",
+              "emissionType": "transport",
+              "iconName": "md-boat",
+              "id": "3",
+              "isMitigated": true,
+              "onPress": [Function],
+              "title": "ChainLink Token (LINK)",
+              "value": 100,
+            },
+          ],
+          "date": "2020-03-01T00:00:00+00:00",
+        },
+        Object {
+          "data": Array [
+            Object {
+              "co2value": 60,
+              "creationDate": "2020-01-01T12:08:16.623Z",
+              "emissionModelType": "beans",
+              "emissionType": "food",
+              "iconName": "md-nutrition",
+              "id": "1",
+              "isMitigated": false,
+              "onPress": [Function],
+              "title": "Beans",
+              "value": 30,
+            },
+          ],
+          "date": "2020-01-01T00:00:00+00:00",
+        },
+      ]
     }
-  }
->
-  <View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <SectionHeader
-        title="Recurring emissions"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <EmissionListItem
-        co2value={0.0803}
-        emissionModelType="boat"
-        iconName="md-boat"
-        id="4"
-        onPress={[Function]}
-        title="ChainLink Token (LINK)"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    />
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <SectionHeader
-        date="2020-03-01T00:00:00+00:00"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <EmissionListItem
-        co2value={20}
-        emissionModelType="beans"
-        iconName="md-nutrition"
-        id="2"
-        isMitigated={false}
-        onPress={[Function]}
-        title="Beans"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <EmissionListItem
-        co2value={0.0803}
-        emissionModelType="boat"
-        iconName="md-boat"
-        id="3"
-        isMitigated={true}
-        onPress={[Function]}
-        title="ChainLink Token (LINK)"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    />
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <SectionHeader
-        date="2020-01-01T00:00:00+00:00"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <EmissionListItem
-        co2value={60}
-        emissionModelType="beans"
-        iconName="md-nutrition"
-        id="1"
-        isMitigated={false}
-        onPress={[Function]}
-        title="Beans"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    />
-    <View
-      onLayout={[Function]}
-    >
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={
+      Array [
+        0,
+        3,
+        7,
+      ]
+    }
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "flex": 1,
+      }
+    }
+  >
+    <View>
       <View
-        style={
-          Object {
-            "height": 100,
-          }
-        }
+        onLayout={[Function]}
+        style={null}
+      >
+        <SectionHeader
+          title="Recurring emissions"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <EmissionListItem
+          co2value={0.0803}
+          emissionModelType="boat"
+          iconName="md-boat"
+          id="4"
+          onPress={[Function]}
+          title="ChainLink Token (LINK)"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
       />
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <SectionHeader
+          date="2020-03-01T00:00:00+00:00"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <EmissionListItem
+          co2value={20}
+          emissionModelType="beans"
+          iconName="md-nutrition"
+          id="2"
+          isMitigated={false}
+          onPress={[Function]}
+          title="Beans"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <EmissionListItem
+          co2value={0.0803}
+          emissionModelType="boat"
+          iconName="md-boat"
+          id="3"
+          isMitigated={true}
+          onPress={[Function]}
+          title="ChainLink Token (LINK)"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      />
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <SectionHeader
+          date="2020-01-01T00:00:00+00:00"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <EmissionListItem
+          co2value={60}
+          emissionModelType="beans"
+          iconName="md-nutrition"
+          id="1"
+          isMitigated={false}
+          onPress={[Function]}
+          title="Beans"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      />
+      <View
+        onLayout={[Function]}
+      >
+        <View
+          style={
+            Object {
+              "height": 100,
+            }
+          }
+        />
+      </View>
     </View>
-  </View>
-</RCTScrollView>
+  </RCTScrollView>,
+  <Text>
+    1 ETH = 
+    0
+     $
+  </Text>,
+]
 `;
 
 exports[`EmissionsScreen renders correctly if no emissions 1`] = `
-<RCTScrollView
-  ListFooterComponent={[Function]}
-  data={
-    Array [
-      Object {
-        "data": Array [],
-        "title": null,
-      },
-    ]
-  }
-  getItem={[Function]}
-  getItemCount={[Function]}
-  keyExtractor={[Function]}
-  onContentSizeChange={[Function]}
-  onLayout={[Function]}
-  onMomentumScrollBegin={[Function]}
-  onMomentumScrollEnd={[Function]}
-  onScroll={[Function]}
-  onScrollBeginDrag={[Function]}
-  onScrollEndDrag={[Function]}
-  renderItem={[Function]}
-  scrollEventThrottle={50}
-  stickyHeaderIndices={
-    Array [
-      0,
-    ]
-  }
-  style={
-    Object {
-      "backgroundColor": "#FFFFFF",
-      "flex": 1,
+Array [
+  <RCTScrollView
+    ListFooterComponent={[Function]}
+    data={
+      Array [
+        Object {
+          "data": Array [],
+          "title": null,
+        },
+      ]
     }
-  }
->
-  <View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <SectionHeader
-        title={null}
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    />
-    <View
-      onLayout={[Function]}
-    >
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={
+      Array [
+        0,
+      ]
+    }
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "flex": 1,
+      }
+    }
+  >
+    <View>
       <View
-        style={
-          Object {
-            "height": 100,
-          }
-        }
+        onLayout={[Function]}
+        style={null}
+      >
+        <SectionHeader
+          title={null}
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
       />
+      <View
+        onLayout={[Function]}
+      >
+        <View
+          style={
+            Object {
+              "height": 100,
+            }
+          }
+        />
+      </View>
     </View>
-  </View>
-</RCTScrollView>
+  </RCTScrollView>,
+  <Text>
+    1 ETH = 
+    0
+     $
+  </Text>,
+]
 `;
 
 exports[`EmissionsScreen renders correctly if only normal emissions 1`] = `
-<RCTScrollView
-  ListFooterComponent={[Function]}
-  data={
-    Array [
-      Object {
-        "data": Array [
-          Object {
-            "co2value": 20,
-            "creationDate": "2020-03-01T12:08:16.623Z",
-            "emissionModelType": "beans",
-            "emissionType": "food",
-            "iconName": "md-nutrition",
-            "id": "2",
-            "isMitigated": false,
-            "onPress": [Function],
-            "title": "Beans",
-            "value": 10,
-          },
-          Object {
-            "co2value": 0.0803,
-            "creationDate": "2020-03-01T12:08:16.623Z",
-            "emissionModelType": "boat",
-            "emissionType": "transport",
-            "iconName": "md-boat",
-            "id": "3",
-            "isMitigated": true,
-            "onPress": [Function],
-            "title": "ChainLink Token (LINK)",
-            "value": 100,
-          },
-        ],
-        "date": "2020-03-01T00:00:00+00:00",
-      },
-      Object {
-        "data": Array [
-          Object {
-            "co2value": 60,
-            "creationDate": "2020-01-01T12:08:16.623Z",
-            "emissionModelType": "beans",
-            "emissionType": "food",
-            "iconName": "md-nutrition",
-            "id": "1",
-            "isMitigated": false,
-            "onPress": [Function],
-            "title": "Beans",
-            "value": 30,
-          },
-        ],
-        "date": "2020-01-01T00:00:00+00:00",
-      },
-    ]
-  }
-  getItem={[Function]}
-  getItemCount={[Function]}
-  keyExtractor={[Function]}
-  onContentSizeChange={[Function]}
-  onLayout={[Function]}
-  onMomentumScrollBegin={[Function]}
-  onMomentumScrollEnd={[Function]}
-  onScroll={[Function]}
-  onScrollBeginDrag={[Function]}
-  onScrollEndDrag={[Function]}
-  renderItem={[Function]}
-  scrollEventThrottle={50}
-  stickyHeaderIndices={
-    Array [
-      0,
-      4,
-    ]
-  }
-  style={
-    Object {
-      "backgroundColor": "#FFFFFF",
-      "flex": 1,
+Array [
+  <RCTScrollView
+    ListFooterComponent={[Function]}
+    data={
+      Array [
+        Object {
+          "data": Array [
+            Object {
+              "co2value": 20,
+              "creationDate": "2020-03-01T12:08:16.623Z",
+              "emissionModelType": "beans",
+              "emissionType": "food",
+              "iconName": "md-nutrition",
+              "id": "2",
+              "isMitigated": false,
+              "onPress": [Function],
+              "title": "Beans",
+              "value": 10,
+            },
+            Object {
+              "co2value": 0.0803,
+              "creationDate": "2020-03-01T12:08:16.623Z",
+              "emissionModelType": "boat",
+              "emissionType": "transport",
+              "iconName": "md-boat",
+              "id": "3",
+              "isMitigated": true,
+              "onPress": [Function],
+              "title": "ChainLink Token (LINK)",
+              "value": 100,
+            },
+          ],
+          "date": "2020-03-01T00:00:00+00:00",
+        },
+        Object {
+          "data": Array [
+            Object {
+              "co2value": 60,
+              "creationDate": "2020-01-01T12:08:16.623Z",
+              "emissionModelType": "beans",
+              "emissionType": "food",
+              "iconName": "md-nutrition",
+              "id": "1",
+              "isMitigated": false,
+              "onPress": [Function],
+              "title": "Beans",
+              "value": 30,
+            },
+          ],
+          "date": "2020-01-01T00:00:00+00:00",
+        },
+      ]
     }
-  }
->
-  <View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <SectionHeader
-        date="2020-03-01T00:00:00+00:00"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <EmissionListItem
-        co2value={20}
-        emissionModelType="beans"
-        iconName="md-nutrition"
-        id="2"
-        isMitigated={false}
-        onPress={[Function]}
-        title="Beans"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <EmissionListItem
-        co2value={0.0803}
-        emissionModelType="boat"
-        iconName="md-boat"
-        id="3"
-        isMitigated={true}
-        onPress={[Function]}
-        title="ChainLink Token (LINK)"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    />
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <SectionHeader
-        date="2020-01-01T00:00:00+00:00"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <EmissionListItem
-        co2value={60}
-        emissionModelType="beans"
-        iconName="md-nutrition"
-        id="1"
-        isMitigated={false}
-        onPress={[Function]}
-        title="Beans"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    />
-    <View
-      onLayout={[Function]}
-    >
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={
+      Array [
+        0,
+        4,
+      ]
+    }
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "flex": 1,
+      }
+    }
+  >
+    <View>
       <View
-        style={
-          Object {
-            "height": 100,
-          }
-        }
+        onLayout={[Function]}
+        style={null}
+      >
+        <SectionHeader
+          date="2020-03-01T00:00:00+00:00"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <EmissionListItem
+          co2value={20}
+          emissionModelType="beans"
+          iconName="md-nutrition"
+          id="2"
+          isMitigated={false}
+          onPress={[Function]}
+          title="Beans"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <EmissionListItem
+          co2value={0.0803}
+          emissionModelType="boat"
+          iconName="md-boat"
+          id="3"
+          isMitigated={true}
+          onPress={[Function]}
+          title="ChainLink Token (LINK)"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
       />
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <SectionHeader
+          date="2020-01-01T00:00:00+00:00"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <EmissionListItem
+          co2value={60}
+          emissionModelType="beans"
+          iconName="md-nutrition"
+          id="1"
+          isMitigated={false}
+          onPress={[Function]}
+          title="Beans"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      />
+      <View
+        onLayout={[Function]}
+      >
+        <View
+          style={
+            Object {
+              "height": 100,
+            }
+          }
+        />
+      </View>
     </View>
-  </View>
-</RCTScrollView>
+  </RCTScrollView>,
+  <Text>
+    1 ETH = 
+    0
+     $
+  </Text>,
+]
 `;
 
 exports[`EmissionsScreen renders correctly if only recurring emissions 1`] = `
-<RCTScrollView
-  ListFooterComponent={[Function]}
-  data={
-    Array [
-      Object {
-        "data": Array [
-          Object {
-            "co2value": 0.0803,
-            "creationDate": "2020-03-01T12:08:16.623Z",
-            "emissionModelType": "boat",
-            "emissionType": "transport",
-            "iconName": "md-boat",
-            "id": "4",
-            "onPress": [Function],
-            "periodType": "monthly",
-            "times": 1,
-            "title": "ChainLink Token (LINK)",
-            "value": 100,
-            "weekDays": Array [],
-          },
-        ],
-        "title": "Recurring emissions",
-      },
-    ]
-  }
-  getItem={[Function]}
-  getItemCount={[Function]}
-  keyExtractor={[Function]}
-  onContentSizeChange={[Function]}
-  onLayout={[Function]}
-  onMomentumScrollBegin={[Function]}
-  onMomentumScrollEnd={[Function]}
-  onScroll={[Function]}
-  onScrollBeginDrag={[Function]}
-  onScrollEndDrag={[Function]}
-  renderItem={[Function]}
-  scrollEventThrottle={50}
-  stickyHeaderIndices={
-    Array [
-      0,
-    ]
-  }
-  style={
-    Object {
-      "backgroundColor": "#FFFFFF",
-      "flex": 1,
+Array [
+  <RCTScrollView
+    ListFooterComponent={[Function]}
+    data={
+      Array [
+        Object {
+          "data": Array [
+            Object {
+              "co2value": 0.0803,
+              "creationDate": "2020-03-01T12:08:16.623Z",
+              "emissionModelType": "boat",
+              "emissionType": "transport",
+              "iconName": "md-boat",
+              "id": "4",
+              "onPress": [Function],
+              "periodType": "monthly",
+              "times": 1,
+              "title": "ChainLink Token (LINK)",
+              "value": 100,
+              "weekDays": Array [],
+            },
+          ],
+          "title": "Recurring emissions",
+        },
+      ]
     }
-  }
->
-  <View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <SectionHeader
-        title="Recurring emissions"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    >
-      <EmissionListItem
-        co2value={0.0803}
-        emissionModelType="boat"
-        iconName="md-boat"
-        id="4"
-        onPress={[Function]}
-        title="ChainLink Token (LINK)"
-      />
-    </View>
-    <View
-      onLayout={[Function]}
-      style={null}
-    />
-    <View
-      onLayout={[Function]}
-    >
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={
+      Array [
+        0,
+      ]
+    }
+    style={
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "flex": 1,
+      }
+    }
+  >
+    <View>
       <View
-        style={
-          Object {
-            "height": 100,
-          }
-        }
+        onLayout={[Function]}
+        style={null}
+      >
+        <SectionHeader
+          title="Recurring emissions"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <EmissionListItem
+          co2value={0.0803}
+          emissionModelType="boat"
+          iconName="md-boat"
+          id="4"
+          onPress={[Function]}
+          title="ChainLink Token (LINK)"
+        />
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
       />
+      <View
+        onLayout={[Function]}
+      >
+        <View
+          style={
+            Object {
+              "height": 100,
+            }
+          }
+        />
+      </View>
     </View>
-  </View>
-</RCTScrollView>
+  </RCTScrollView>,
+  <Text>
+    1 ETH = 
+    0
+     $
+  </Text>,
+]
 `;
