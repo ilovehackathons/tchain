@@ -28,7 +28,7 @@ The [NMF.earth](https://github.com/NMF-earth/nmf-app) app was used as the starti
 
 <br />
 
-<!-- ![screenshots](https://github.com/ilovehackathons/tchain/blob/main/app-preview.png) -->
+![screenshots](https://github.com/ilovehackathons/tchain/blob/main/app-preview.png)
 
 ![](https://github.com/ilovehackathons/tchain/workflows/Test%20CI/badge.svg)
 [![Depfu](https://badges.depfu.com/badges/f3b06c819202baf2a14b3241cbf249c9/overview.svg)](https://depfu.com/repos/github/ilovehackathons/tchain?project_id=10243)
