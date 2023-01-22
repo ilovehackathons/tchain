@@ -45,7 +45,7 @@ const Transport: React.FC<Props> = ({
     return (
       <View style={styles.durationDistanceContainer}>
         <Text.H3 style={styles.miniHeader}>{t("ADD_EMISSION_SCREEN_DURATION")}</Text.H3>
-        <Text.Primary lightGray>{hours + " hour(s) and " + minutes + " minute(s)."}</Text.Primary>
+        <Text.Primary lightGray>{hours} pieces</Text.Primary>
       </View>
     );
   };
@@ -54,7 +54,7 @@ const Transport: React.FC<Props> = ({
     return (
       <View style={styles.durationDistanceContainer}>
         <Text.H3 style={styles.miniHeader}>{t("ADD_EMISSION_SCREEN_DISTANCE")}</Text.H3>
-        <Text.Primary lightGray>{Math.round(sliderValue) + " kilometer(s)"}</Text.Primary>
+        <Text.Primary lightGray>{Math.round(sliderValue) + " day(s)"}</Text.Primary>
       </View>
     );
   };

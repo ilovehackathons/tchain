@@ -44,7 +44,7 @@ const Streaming: React.FC<Props> = ({
     <>
       <View style={styles.durationDistanceContainer}>
         <Text.H3 style={styles.miniHeader}>{t("ADD_EMISSION_SCREEN_DURATION")}</Text.H3>
-        <Text.Primary lightGray>{hours + " hour(s) and " + minutes + " minute(s)."}</Text.Primary>
+        <Text.Primary lightGray>{hours} pieces</Text.Primary>
       </View>
       <Slider
         minimumTrackTintColor={Colors.green50}
@@ -63,7 +63,7 @@ const Streaming: React.FC<Props> = ({
             value={carbonValue > 1 ? carbonValue : carbonValue * 1000}
             maximumFractionDigits={2}
           />{" "}
-          <Text.Primary>{carbonValue > 1 ? "€ fiat" : "gCO2eq"}</Text.Primary>
+          <Text.Primary>{carbonValue > 1 ? "€ fiat" : "€ fiat"}</Text.Primary>
         </Text.H2>
       </View>
     </>

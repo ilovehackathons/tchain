@@ -14,7 +14,7 @@ exports[`<OpenFoodFacts /> render correctly 1`] = `
     center={true}
     url="https://world.openfoodfacts.org/"
   >
-    Data from OPEN FOOD FACTS
+    Data from OpenSea
   </Text.Link>
   <View
     style={
@@ -103,7 +103,7 @@ exports[`<OpenFoodFacts /> render nothing if bad data passed 1`] = `
     center={true}
     url="https://world.openfoodfacts.org/"
   >
-    Data from OPEN FOOD FACTS
+    Data from OpenSea
   </Text.Link>
   <View
     style={
@@ -192,7 +192,7 @@ exports[`<OpenFoodFacts /> render nothing if no data passed 1`] = `
     center={true}
     url="https://world.openfoodfacts.org/"
   >
-    Data from OPEN FOOD FACTS
+    Data from OpenSea
   </Text.Link>
   <View
     style={
