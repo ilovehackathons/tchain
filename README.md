@@ -43,7 +43,7 @@ Design can be found on [Figma](https://www.figma.com/community/file/967052407514
 
 ### 📊 Data source
 
-Coin data comes from [Coinbase](https://coinbase.com) while NFT data comes from [OpenSea](https://opensea.io/) api.
+Token prices come from [Binance](https://binance.com) while NFT data comes from [OpenSea](https://opensea.io/).
 
 <br />
 
